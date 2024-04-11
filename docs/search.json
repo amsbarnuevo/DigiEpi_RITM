@@ -173,5 +173,68 @@
     "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
     "section": "CHECKPOINT",
     "text": "CHECKPOINT\nModified True or False:  For items 1-5, choose the letter that corresponds to your answer.\nA = The first statement is correct; the second statement is incorrect\nB = The first statement is incorrect; the second statement is correct\nC= Both statements are correct\nD = Both statements are incorrect\n\n\n\n\n\n\n\n\n\nStatement 1: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.\nStatement 2: The platform aids in developing targeted interventions by providing insights into the way pathogens evolve and spread.\n\n\n\n\n\nStatement 1: Pathogenwatch facilitates epidemiologic studies of various microbial pathogens, including bacteria like Klebsiella pneumoniae, Escherichia coli, and among others.\nStatement 2: Pathogenwatch can be integrated with existing surveillance systems\n\n\n\n\n\nStatement 1: Pathogenwatch is a subscription-based service offered by Center for Genomic Pathogen Surveillance.\nStatement 2: Pathogenwatch is only accessible via software application to be installed in the computer.\n\n\n\n\n\nStatement 1: The use of Pathogenwatch is exclusive and limited to low- and middle income countries only\nStatement 2: Pathogenwatch has the capacity to predict and analyze genomic profiles including antimicrobial resistance determinants for potential emerging variants.\n\n\n\n\n\nStatement 1: By sharing genomic data and analysis tools, Pathogenwatch enables a coordinated response to infectious disease threats on a global scale.\nStatement 2:  Pathogenwatch users have unlimited access to all data on disease outbreaks around the world."
+  },
+  {
+    "objectID": "syllabus.html",
+    "href": "syllabus.html",
+    "title": "SYLLABUS",
+    "section": "",
+    "text": "MODULE SPECIFICATION\n\n\n\n\n\n\n\nTarget Audience\nPublic Health Professionals\n\n\nLearning Hours\n10 hours\n\n\nModule Developer\nRITM-Antimicrobial Resistance Surveillance Reference Laboratory\n\n\n\n\n\nWORSHOP OBJECTIVES\nThe conduct of this workshop aims to:\n\n\n\nCONTENT OVERVIEW\n\nDiscussion on the steps of ARSRL SaTScan and Whole Genome Sequencing enhanced outbreak investigation protocol.\nDiscussion on the role of WGS in public health and outbreak investigation.\nDiscussion on the overview of the following digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact.\nHands-on activities on the use of Epicollect5, Pathogenwatch and Microreact.\n\n\n\nLEARNING OUTCOMES\nAfter this workshop, the participants are expected to:\n\n\n\nASSESSMENT OF LEARNING OUTCOMES\nA written pre-test and post-test shall be administered before and after the training. All participants will be provided with a worksheet that will include formative assessment activities for each of the five learning outcomes of the workshop.\n\n\nWORKSHOP FLOW DIAGRAM\n\n\n\nHOW THIS MODULE WORKS?\n\n\n\n\n\n\n\n\nOUTLOOK\nProvides the learning outcomes for each module unit.\n\n\n\nLESSON PROPER\nProvides an overview of the topic or description of features of the digital epidemiology tools\n\n\n\nCLOCK-UP\nIndicates the step-by-step guide of the hands-on activities during workshop.\n\n\n\nBRAINWORK\nShows the summary of important concepts for each digital epidemiology tool.\n\n\n\nSNAPSHOT\nIndicates the summary of important concepts for each digital epidemiology tool.\n\n\n\nFLICK\nList of journal articles and additional reference on the use of the featured tools.\n\n\n\nCHECKPOINT\nThis section includes as formative test."
+  },
+  {
+    "objectID": "agenda.html",
+    "href": "agenda.html",
+    "title": "Agenda",
+    "section": "",
+    "text": "The detailed agenda can be found here."
+  },
+  {
+    "objectID": "speakers.html",
+    "href": "speakers.html",
+    "title": "Meet the Resource Speakers",
+    "section": "",
+    "text": "David Michael Aanensen\n\n\n\n\n\n\nEmmanuelle Kumaran"
+  },
+  {
+    "objectID": "speakers.html#georgina-lewis-woodhouse",
+    "href": "speakers.html#georgina-lewis-woodhouse",
+    "title": "Meet the Resource Speakers",
+    "section": "Georgina Lewis-Woodhouse",
+    "text": "Georgina Lewis-Woodhouse\n\nDigital Epidemiologist - Data Scientists\n\nGeorgie has a Masters of Research (MRes) in Ecology, Evolution and Development and a BSc in Biology from Oxford Brookes University.\nShe works on the implementation of CGPS tools to facilitate the use of genomic epidemiology and data science in public health and infectious disease research. She joined CGPS in 2022 and works on a variety of projects within the group utilising a background in molecular biology, data science and epidemiology.\nPreviously, Georgie worked for the Global Research on Antimicrobial Resistance (GRAM) project at the University of Oxford with a focus on modelling the prevalence of resistance of Staphylococcus aureus and Streptococcus pneumoniae as well as possible factors that drive AMR."
+  },
+  {
+    "objectID": "speakers.html#sonia-b.-sia-md",
+    "href": "speakers.html#sonia-b.-sia-md",
+    "title": "Meet the Resource Speakers",
+    "section": "Sonia B. Sia, MD",
+    "text": "Sonia B. Sia, MD\n\nARSRL Head\n\nDoctor Sonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).\nShe works with various AMR stakeholders across the Philippines with significant and outstanding contributions in research for AMR and of public health interest. ADD MORE CONTENTS HERE"
+  },
+  {
+    "objectID": "speakers.html#ferissa-ablola-rmicro-msph",
+    "href": "speakers.html#ferissa-ablola-rmicro-msph",
+    "title": "Meet the Resource Speakers",
+    "section": "Ferissa Ablola, RMicro, MSPH",
+    "text": "Ferissa Ablola, RMicro, MSPH\n\nBacteriologist III\n\nFaye holds a Masters degree in Public Health from the University of the Philippines, Manila and is working her way to earning Doctor of Philosophy in Education with focus on Biology at University of the Philippines-Open University, Los Banos. ADD MORE CONTENTS HERE"
+  },
+  {
+    "objectID": "concept_overview.html",
+    "href": "concept_overview.html",
+    "title": "Bioinformatics and Digital Epidemiology",
+    "section": "",
+    "text": "Background\nGenomic epidemiology aims to understand the emergence and dissemination of high-risk clones within pathogen populations with the ultimate goal of implementing evidence-based interventions to protect public health. High-risk clones are subpopulations/strains/variants of a pathogen that carry risk elements, such as antibiotic resistance or virulence determinants, and thus pose a potential risk to public health.\nThe increased genetic resolution afforded by genomic data is useful from global to local geographic scales, and has proven to be particularly useful for the investigation of pathogens that exhibit little genetic variation (e.g. Wong et al. 2016), and for outbreak investigations (e.g. Hendriksen et al. 2011, Eppinger et al. 2014). During outbreak investigations (and other genomic epidemiology studies), epidemiological data from patients is collected by healthcare professionals. Antimicrobial susceptibility data, species identification, and any further phenotypic or molecular characterization of the isolates is often generated by the laboratories linked to healthcare facilities and/or by the reference laboratory. Ideally, these different sources of data are stored in a centralised surveillance system and database, such as WHONET. However, these systems rarely incorporate genomic data produced by bioinformaticians. Genomic data may include sequence/assembly quality, genotyping/genoserotyping information, presence/absence of known risk elements, and clustering of the isolates based on genetic similarity –usually in the form of a phylogenetic tree or a minimum spanning-tree.\nThe job of a genomic epidemiologist often starts by combining data from diverse sources that might not be complete or standardised to facilitate the identification of relevant patterns for meaningful interpretation. Once integrated, the epi, lab, and genomic data can be interrogated over the structure of the tree to identify clusters of interest that will place the isolates in or out of the outbreak.\nThe Centre for Genomic Pathogen Surveillance develops free web applications for data collection, integration, visualisation, and analysis of genomic epidemiology data. Epicollect5 is a mobile & web application for free and easy data collection. It provides both the web and mobile applications for the generation of forms (questionnaires) and freely hosted project websites for data collection. Projects are created by using the web application at five.epicollect.net, and then downloaded to the device to perform the data collection. Data are collected in the field using multiple devices and all data can be viewed on a central server (via map, tables, and charts). Pathogenwatch is a free web based tool for processing and visualization of microbial genome sequences in phylogenetic and geographical contexts. First, this genomic tool allows you to upload microbial genomes to access an array of automatic analyses such as species assignment, and antibiotic resistance prediction among others. Microreact allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact.\n\n\nTraining Methods and Instructional Strategies\n\nDiscussions, hands-on activities\n\n\n\nDuration of training\n\n10 hours\n\n\n\nResources\nA series of resources will be made available for participants prior, during and after the workshop: quick guide videos/documentation and printed training materials.\n\n\nRecommended background knowledge\n\nBiological and clinical mechanisms underlying infectious pathogens\nInfectious disease epidemiology and surveillance\nDisease outbreaks\nPathogens of clinical significance\nAntimicrobial resistance"
+  },
+  {
+    "objectID": "pre_test/pre_test.html",
+    "href": "pre_test/pre_test.html",
+    "title": "Pre-test",
+    "section": "",
+    "text": "Kindly answer the pre-test which can be found here."
+  },
+  {
+    "objectID": "post_test/post_test.html",
+    "href": "post_test/post_test.html",
+    "title": "Post-test",
+    "section": "",
+    "text": "Kindly answer the post-test which can be found here."
   }
 ]

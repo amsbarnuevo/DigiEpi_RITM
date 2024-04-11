@@ -8,12 +8,26 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: agenda.qmd
+        text: Agenda
+      - href: syllabus.qmd
+        text: Syllabus  
+      - href: speakers.qmd
+        text: Resource Speakers
+      - href: concept_overview.qmd
+        text: Concept Overview
       - text: Module
         menu:
           - module1/module1.qmd
           - module2/module2.qmd
           - module3/module3.qmd
           - module4/module4.qmd
+      - text: Workshop Materials
+        menu:
+          - pre_test/pre_test.qmd
+          - post_test/post_test.qmd
+          - evaluation.qmd
+          
     tools:
       - icon: twitter
         href: https://twitter.com/

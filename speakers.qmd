@@ -1,0 +1,39 @@
+---
+title: "Meet the Resource Speakers"
+---
+
++:--------------------------------------------------------------------------------:+:--------------------------------------------------------------------------:+
+| [![David Michael Aanensen](img/david_cgps.jpg){width="420"}](speakers/david.qmd) | [![Emmanuelle Kumaran](img/emma_cgps.jpg){width="420"}](speakers/emma.qmd) |
+|                                                                                  |                                                                            |
+| ### **David Michael Aanensen**                                                   | ### Emmanuelle Kumaran                                                     |
++----------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+| ![](img/georgie_cgps.jpg)                                                        |                                                                            |
++----------------------------------------------------------------------------------+----------------------------------------------------------------------------+
+
+## **Georgina Lewis-Woodhouse**
+
+#### Digital Epidemiologist - Data Scientists
+
+-   Georgie has a Masters of Research (MRes) in Ecology, Evolution and Development and a BSc in Biology from Oxford Brookes University.
+
+-   She works on the implementation of CGPS tools to facilitate the use of genomic epidemiology and data science in public health and infectious disease research. She joined CGPS in 2022 and works on a variety of projects within the group utilising a background in molecular biology, data science and epidemiology.
+
+-   Previously, Georgie worked for the Global Research on Antimicrobial Resistance (GRAM) project at the University of Oxford with a focus on modelling the prevalence of resistance of Staphylococcus aureus and Streptococcus pneumoniae as well as possible factors that drive AMR.
+
+![](img/docsonia_ritm.jpg){fig-align="center" width="250"}
+
+## **Sonia B. Sia, MD**
+
+#### ARSRL Head
+
+-   Doctor Sonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).
+
+-   She works with various AMR stakeholders across the Philippines with significant and outstanding contributions in research for AMR and of public health interest. ***ADD MORE CONTENTS HERE***
+
+![](img/maamfaye_ritm.jpg){fig-align="center" width="250"}
+
+## **Ferissa Ablola, RMicro, MSPH**
+
+#### Bacteriologist III
+
+-   Faye holds a Masters degree in Public Health from the University of the Philippines, Manila and is working her way to earning Doctor of Philosophy in Education with focus on Biology at University of the Philippines-Open University, Los Banos. ***ADD MORE CONTENTS HERE***
