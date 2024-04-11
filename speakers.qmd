@@ -1,8 +1,5 @@
 ---
 title: "Meet the Resource Speakers"
-filters:
-   - lightbox
-lightbox: auto
 ---
 
 ::: {layout-nrow="2"}
