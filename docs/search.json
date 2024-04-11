@@ -193,7 +193,7 @@
     "href": "speakers.html",
     "title": "Meet the Resource Speakers",
     "section": "",
-    "text": "David Michael Aanensen"
+    "text": "David Michael Aanensen, MSc, PhD\n\n\n\n\n\n\n\nEmmanuelle Kumaran, MSc\n\n\n\n\n\n\n\nGeorgina Lewis-Woodhouse, MRes\n\n\n\n\n\n\n\n\n\nSonia B. Sia, MD, FPAFP, FPSP, MPM\n\n\n\n\n\n\n\nFerissa Ablola, RMicro, MSPH"
   },
   {
     "objectID": "speakers.html#georgina-lewis-woodhouse",
@@ -292,5 +292,26 @@
     "title": "David Michael Aanensen",
     "section": "",
     "text": "David is the director of the Centre for Genomic Pathogen Surveillance (CGPS), which is at the forefront of bringing data modelling, software development, epidemiology, bioinformatics and machine learning, genomic technology, training and capacity building to deliver actionable public health information.\nWith the collective effort of his team, the Centre successfully developed digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact which aids in surveillance of microbial pathogens through a combination of web application, software engineering and the use of genome sequencing.\nWorks with major public health agencies such as the US CDC, the European CDC, Public Health England, Wales, Scotland and the WHO. The Centre also hosts an NIHR-funded Global Health Research Unit on Genomic Surveillance of Antimicrobial Resistance, working with partners leading National AMR strategies in The Philippines, Colombia, Nigeria and India to implement genomic surveillance and linking to routine phenotypic and epidemiological data for priority pathogens."
+  },
+  {
+    "objectID": "speakers/sonia.html",
+    "href": "speakers/sonia.html",
+    "title": "Sonia B. Sia, MD, FPAFP, FPSP, MPM",
+    "section": "",
+    "text": "ARSRL Head\n\n\n\n\n\nSonia is the Head of the Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL) housed in the Research Institute for Tropical Medicine (RITM).\nShe works with various AMR stakeholders across the Philippines with significant and outstanding contributions to research for AMR and public health interests. \nUnder her leadership, she efficiently oversees a large network of public healthcare facilities nationwide encompassing 26 sentinel sites working together to study the prevailing status of antibiotic resistance.\nShe serves as principal investigator on various laboratory operational management and AMR studies and projects."
+  },
+  {
+    "objectID": "speakers/faye.html",
+    "href": "speakers/faye.html",
+    "title": "Ferissa Ablola, RMicro, MSPH (Medical Microbiology)",
+    "section": "",
+    "text": "Bacteriologist III\n\n\n\n\n\nFaye earned her Master’s of Science in Public Health degree from the University of the Philippines, Manila. She is currently a Doctor of Philosophy in Education (Biology) candidate.\nShe is currently part of the Data Management Unit of ARSRL serving as the Digital Epidemiologist and one of the bioinformaticians in the reference lab.  Prior to joining ARSP, she served as an educator in several universities in the country and handled subjects including microbiology and biostatistics and epidemiology.\nShe has authored publications on AMR, medical microbiology and public health education, earning local and international recognitions for her research contributions."
+  },
+  {
+    "objectID": "speakers/georgie.html",
+    "href": "speakers/georgie.html",
+    "title": "Georgina Lewis-Woodhouse, MRes (Ecology, Evolution and Development)",
+    "section": "",
+    "text": "Digital Epidemiologist - Data Scientists\n\n\n\n\n\nGeorgie has a Masters of Research (MRes) in Ecology, Evolution and Development and a BSc in Biology from Oxford Brookes University.\nShe works on the implementation of CGPS tools to facilitate the use of genomic epidemiology and data science in public health and infectious disease research. She joined CGPS in 2022 and works on a variety of projects within the group utilising a background in molecular biology, data science and epidemiology.\nPreviously, Georgie worked for the Global Research on Antimicrobial Resistance (GRAM) project at the University of Oxford with a focus on modelling the prevalence of resistance of Staphylococcus aureus and Streptococcus pneumoniae as well as possible factors that drive AMR."
   }
 ]
