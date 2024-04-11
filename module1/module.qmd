@@ -1,0 +1,17 @@
+---
+title: "Module"
+---
+
+## UNIT 1 - ARSRL SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol
+
+### ![](images/clipboard-1825711664.png){width="35" height="31"}Outlook
+
+Unit 1 describes the rationale and the steps on the conduct of outbreak investigation of ARSRL featuring the SaTScan software of WHONET and Whole Genome Sequencing. At the end of this unit, the participants shall be able to:
+
+-   recognize the rationale of the conduct of the outbreak investigation protocol; and
+
+-   enumerate the steps of the ARSRL outbreak investigation protocol.
+
+## Project 2
+
+## Project 3
