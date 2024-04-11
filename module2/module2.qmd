@@ -1,0 +1,107 @@
+---
+title: "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT"
+---
+
+# ![](images/clipboard-2331131156.png){width="37" height="35"}**OUTLOOK**
+
+At the end of this unit, the participants shall be able to:
+
+-   recognize the key features and uses of Epicollect5; and
+
+-   encode and submit data on the digital data collection platform
+
+# ![](images/clipboard-2742305045.png){width="37"}**LESSON PROPER**
+
+The **Centre for Genomic Pathogen Surveillance (CGPS)** develops free web applications for data collection, integration, visualization, and analysis of genomic epidemiology data. Epicollect5 is a mobile & web application for free and easy data collection. It provides both the web and mobile applications for the generation of forms (questionnaires) and freely hosted project websites for data collection. Projects are created by using the web application at five.epicollect.net, and then downloaded to the device to perform the data collection. Data are collected in the field using multiple devices and all data can be viewed on a central server (via map, tables, and charts). 
+
+### **Where to Download Epicollect5 Mobile Application?**
+
+-   ***Android -*** This app support phones and tablets on Android 5.1 and onwards. [Download it from the Play Store](https://play.google.com/store/apps/details?id=uk.ac.imperial.epicollect.five&hl=en_GB&pli=1).
+
+-   ***iOS -*** This app support iPhones and iPads with iOS 14+. Download it from the App Store.
+
+### **Creation of Project in Epicollect5**
+
+In Epicollect5, a project refers to a structured and organized collection of data that revolves around a specific goal, task, or study. It’s a fundamental concept within the Epicollect5 platform, which is designed for data collection and management. A project in Epicollect5 typically includes the following components:
+
+1.  ***Form (s)***: A form defines the data fields and structure for collecting information. You design the form to capture specific types of data relevant to your project, such as text, numbers, dates, images, and more.
+
+2.  ***Entries**:* Entries are the individual records or instances of data collected using the form. Each time you gather data, it results in a new entry within the project.
+
+3.  ***Project Settings***: These settings allow you to configure various aspects of the project, such as its name, description, access permissions, and more.
+
+4.  ***Data Visualization***: Epicollect5 provides tools for visualizing and analyzing the collected data.
+
+5.  ***Collaboration**:* Users are able to collaborate with other users on the same project, enabling multiple people to contribute data.
+
+6.  ***Data Export***: The ability to export the collected data for further analysis is a crucial feature. Epicollect5 projects usually allow you to export data in various formats, such as CSV or JSON.
+
+Epicollect5 is often used for research, fieldwork, surveys, environmental monitoring, and other data collection tasks. The concept of a project helps you organize and manage the data you collect, making it easier to focus on your specific data collection objectives.
+
+### **Creation of Form in Epicollect5**
+
+Epicollect5 provides an intuitive and easy to use drag & drop form builder. Currently, Epicollect5 allows a maximum of **300** questions per a single form, and a maximum number of **5** linked (hierarchy) forms.
+
+The form builder features a three columns layout:
+
+-   *Left column*: the available inputs
+
+-   *Middle column*: the inputs added to each form
+
+-   *Right column*: the currently selected input settings
+
+![](images/clipboard-2110467051.png){fig-align="center" width="744"}
+
+## ![](images/clipboard-2164562933.png){width="37"}**CLOCK - UP**
+
+*This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below as explained by the training facilitators.*
+
+1.  Use your mobile phone with installed Epicollect5 app. Make sure that your phone is connected to WiFi.
+
+    ![](images/clipboard-199273880.png)
+
+2.  Click **“ADD PROJECT”** and type in the project entitled **“ARSH Outbreak Investigation 2024”** in the search box.
+
+    ![](images/clipboard-2282708482.png)
+
+3.  Open the **ARSH Outbreak Investigation 2024** project and click **“ADD ENTRY”**.Your team will collect only **one sample**, but all of you can collect the associated data on Epicollect5. However, *make sure that only one of you uploads the data later on to avoid duplications.*
+
+    ![](images/clipboard-1985254395.png)
+
+4.  Look for the conical tube tied around the pole and open it. Refer to the printed metadata inside the tube which corresponds to the information required in the Epicollect5 form. Fill-out the form.
+
+5.  Take a screenshot of your phone after hitting **“SAVE ENTRY”. ONLY ONE** of the group members shall **click “UPLOAD”** to the Epicollect5 server. Make sure you are connected to the WiFi while uploading.
+
+    ![](images/clipboard-2376202926.png)
+
+6.  Click on **“UPLOAD DATA”** and then **“UPLOAD PHOTO”.** Andyour entry has been uploaded in the server.
+
+    ![](images/clipboard-988266200.png)
+
+7.  Click on the link below to view the collated data using the Epicollect5 form.
+
+    <https://five.epicollect.net/project/arsh-outbreak-investigation-2024/data>
+
+8.  Submit your sample (conical tube) to the collecting instructor, which will be sent to the reference lab for culture confirmation.
+
+## ![](images/clipboard-3020951424.png){width="37"}**BRAINWORK**
+
+To learn and explore more on the advanced features of Epicollect5, click on the link below:
+
+<https://docs.epicollect.net/>
+
+## ![](images/clipboard-2057582273.png){width="37"}**FLICK**
+
+For your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.
+
+| **Study Title**                                                                                                                                                                                                                          | Author/s               | DOI                                             |
+|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------|
+| The unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance                                                                                                           | Alhusein et al. 2024   | <https://doi.org/10.1080/17441692.2023.2298940> |
+| Antibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania                                                                              | Olamijuwon et al. 2023 | <https://doi.org/10.1186/s13756-022-01199-4>    |
+| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021    | <https://doi.org/10.1136/bmjopen-2020-041418>   |
+
+## ![](images/clipboard-1854890935.png){width="37"}**CHECKPOINT**
+
+Kindly present the screenshot that you took on your phone after saving your encoded data. The facilitator will give you a badge for the completion of data encoding. Attach the badge on your worksheet.
+
+![](images/clipboard-1696865452.png)

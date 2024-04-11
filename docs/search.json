@@ -96,5 +96,82 @@
     "title": "Module",
     "section": "Project 3",
     "text": "Project 3"
+  },
+  {
+    "objectID": "module4/module4.html",
+    "href": "module4/module4.html",
+    "title": "UNIT 4 - Digital Epidemiology Tool: MICROREACT",
+    "section": "",
+    "text": "OUTLOOK\nAt the end of this unit, the participants shall be able to:\n\nrecognize the key features and uses of Microreact\nmanipulate the data visualization tool; and\nanalyze the inputs in the Microreact project\n\n\n\nLESSON PROPER\nMicroreact is software developed by CGPS that allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact, or a .microreact file can be downloaded for sharing with collaborators.\nMicroreact is a web-based application for the provision of interactive data visualisations. It enables the rapid generation and linkage of trees, maps, networks, charts and timelines, enabling epidemiologists and key decision makers to react faster and with greater accuracy.\nMicroreact can be deployed securely on a local server, behind firewalls and adhering to local data governance. Users can make their Microreact projects findable on the network, or share them privately with another user by sharing a downloaded project or using secret links. Microreact projects for public consumption can be shared on the public Microreact site.\n\n\n\n\n\n\nNavigating the site\n\n\n\n\nClick the menu icon\nThe menu bar can be accessed by clicking on the  icon on the upper left corner of the page.\nClicking the icon brings up the main menu.\n\n\n\nView the four main pages\nThis menu allows you to navigate the site. The site has four main pages:\n\nShowcase\nUpload\nDocumentation\nMy Account\n\nYou may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”.\n\n\n\n\n\n\n\n\n\n\n\n\nMicroreact Icon Summary\n\n\n\n\nIcon\nDescription\n\n\n\nDisplay additional menu options. It can be found either within individual panels, or at the top left of your microreact account.\n\n\n\nOpens a menu to let you edit or delete existing panels, as well as add a new panel.\n\n\n\nIn this menu you can control selections for labels, colours, and shapes.\n\n\n\nDownload individual project files, such as the metadata file, .newick files, etc.\n\n\n\nUpdate who has access to the project as well as find sharing links and create an easier alias link.\n\n\n\nAllows you to save a new project, update a current project, or download a file containing the complete project.\n\n\n\nThis is the configure icon. It expands or collapses additional buttons or menus.\n\n\n\nMaximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size.\n\n\n\nThis is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter.\n\n\n\nShuffles the nodes in a network.\n\n\n\nAutomatically adjust the tree or network size to the current panel size\n\n\n\nControls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes.\n\n\n\nThis appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns\n\n\n\nIn the map panel this viewport button filters the dashboard to only things currently visible in the map panel."
+  },
+  {
+    "objectID": "module2/module2.html",
+    "href": "module2/module2.html",
+    "title": "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT",
+    "section": "",
+    "text": "At the end of this unit, the participants shall be able to:\n\nrecognize the key features and uses of Epicollect5; and\nencode and submit data on the digital data collection platform"
+  },
+  {
+    "objectID": "module2/module2.html#clock---up",
+    "href": "module2/module2.html#clock---up",
+    "title": "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT",
+    "section": "CLOCK - UP",
+    "text": "CLOCK - UP\nThis section of the module will include the actual group activities during the workshop. Kindly follow the instructions below as explained by the training facilitators.\n\nUse your mobile phone with installed Epicollect5 app. Make sure that your phone is connected to WiFi.\n\nClick “ADD PROJECT” and type in the project entitled “ARSH Outbreak Investigation 2024” in the search box.\n\nOpen the ARSH Outbreak Investigation 2024 project and click “ADD ENTRY”.Your team will collect only one sample, but all of you can collect the associated data on Epicollect5. However, make sure that only one of you uploads the data later on to avoid duplications.\n\nLook for the conical tube tied around the pole and open it. Refer to the printed metadata inside the tube which corresponds to the information required in the Epicollect5 form. Fill-out the form.\nTake a screenshot of your phone after hitting “SAVE ENTRY”. ONLY ONE of the group members shall click “UPLOAD” to the Epicollect5 server. Make sure you are connected to the WiFi while uploading.\n\nClick on “UPLOAD DATA” and then “UPLOAD PHOTO”. Andyour entry has been uploaded in the server.\n\nClick on the link below to view the collated data using the Epicollect5 form.\nhttps://five.epicollect.net/project/arsh-outbreak-investigation-2024/data\nSubmit your sample (conical tube) to the collecting instructor, which will be sent to the reference lab for culture confirmation."
+  },
+  {
+    "objectID": "module2/module2.html#brainwork",
+    "href": "module2/module2.html#brainwork",
+    "title": "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT",
+    "section": "BRAINWORK",
+    "text": "BRAINWORK\nTo learn and explore more on the advanced features of Epicollect5, click on the link below:\nhttps://docs.epicollect.net/"
+  },
+  {
+    "objectID": "module2/module2.html#flick",
+    "href": "module2/module2.html#flick",
+    "title": "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT",
+    "section": "FLICK",
+    "text": "FLICK\nFor your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.\n\n\n\nStudy Title\nAuthor/s\nDOI\n\n\n\n\nThe unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance\nAlhusein et al. 2024\nhttps://doi.org/10.1080/17441692.2023.2298940\n\n\nAntibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania\nOlamijuwon et al. 2023\nhttps://doi.org/10.1186/s13756-022-01199-4\n\n\nProtocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA)\nAsiimwe et al. 2021\nhttps://doi.org/10.1136/bmjopen-2020-041418"
+  },
+  {
+    "objectID": "module2/module2.html#checkpoint",
+    "href": "module2/module2.html#checkpoint",
+    "title": "UNIT 2 - Digital Epidemiology Tool: EPICOLLECT",
+    "section": "CHECKPOINT",
+    "text": "CHECKPOINT\nKindly present the screenshot that you took on your phone after saving your encoded data. The facilitator will give you a badge for the completion of data encoding. Attach the badge on your worksheet."
+  },
+  {
+    "objectID": "module3/module3.html",
+    "href": "module3/module3.html",
+    "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
+    "section": "",
+    "text": "At the end of this unit, the participants shall be able to:\n\nidentify the key features of Pathogenwatch; and\nrecognize the analyses that can be generated through Pathogenwatch"
+  },
+  {
+    "objectID": "module3/module3.html#brainwork",
+    "href": "module3/module3.html#brainwork",
+    "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
+    "section": "BRAINWORK",
+    "text": "BRAINWORK\nTo learn and explore more on the advanced features of Pathogenwatch, click on the link below:\nhttps://cgps.gitbook.io/pathogenwatch/"
+  },
+  {
+    "objectID": "module3/module3.html#clock---up",
+    "href": "module3/module3.html#clock---up",
+    "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
+    "section": "CLOCK - UP",
+    "text": "CLOCK - UP\nThis section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.\n\nLend your ears to our esteemed facilitators as they demonstrate the following:\n\nUploading of genomes to Pathogenwatch\nNavigation through the lozenge buttons\nCreate genome collection\nDescribe the findings of the generated analyses in the individual report\n\nTake down notes and scan the QR code below for any question.\n\n\n\n\n\n\n\nAccomplish the following checkpoint exercise."
+  },
+  {
+    "objectID": "module3/module3.html#flick",
+    "href": "module3/module3.html#flick",
+    "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
+    "section": "FLICK",
+    "text": "FLICK\nFor your further reading, the following journal articles below utilized Pathogenwatch for their study analysis.\n\n\n\nStudy Title\nAuthor/s\nDOI\n\n\nRapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch\nArgimon et al. 2021\nhttps://doi.org/10.1093/cid/ciab784\n\n\nA community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch\nSanchez-Buso et al. 2021\ndoi: 10.1186/s13073-021-00858-2\n\n\nA global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch\nArgimon et al. 2021\ndoi: 10.1038/s41467-021-23091-2"
+  },
+  {
+    "objectID": "module3/module3.html#checkpoint",
+    "href": "module3/module3.html#checkpoint",
+    "title": "UNIT 3 - Digital Epidemiology Tool: PATHOGENWATCH",
+    "section": "CHECKPOINT",
+    "text": "CHECKPOINT\nModified True or False:  For items 1-5, choose the letter that corresponds to your answer.\nA = The first statement is correct; the second statement is incorrect\nB = The first statement is incorrect; the second statement is correct\nC= Both statements are correct\nD = Both statements are incorrect\n\n\n\n\n\n\n\n\n\nStatement 1: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.\nStatement 2: The platform aids in developing targeted interventions by providing insights into the way pathogens evolve and spread.\n\n\n\n\n\nStatement 1: Pathogenwatch facilitates epidemiologic studies of various microbial pathogens, including bacteria like Klebsiella pneumoniae, Escherichia coli, and among others.\nStatement 2: Pathogenwatch can be integrated with existing surveillance systems\n\n\n\n\n\nStatement 1: Pathogenwatch is a subscription-based service offered by Center for Genomic Pathogen Surveillance.\nStatement 2: Pathogenwatch is only accessible via software application to be installed in the computer.\n\n\n\n\n\nStatement 1: The use of Pathogenwatch is exclusive and limited to low- and middle income countries only\nStatement 2: Pathogenwatch has the capacity to predict and analyze genomic profiles including antimicrobial resistance determinants for potential emerging variants.\n\n\n\n\n\nStatement 1: By sharing genomic data and analysis tools, Pathogenwatch enables a coordinated response to infectious disease threats on a global scale.\nStatement 2:  Pathogenwatch users have unlimited access to all data on disease outbreaks around the world."
   }
 ]
