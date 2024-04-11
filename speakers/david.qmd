@@ -3,7 +3,7 @@ title: "David Michael Aanensen"
 about:
   id: me
   template: broadside
-  image: speakers/images/david_cgps.jpg
+  image: img/david_cgps.jpg
 ---
 
 ::: {#me}
