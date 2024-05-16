@@ -12,7 +12,7 @@ title: "SYLLABUS"
 | **Module Developer** | RITM-Antimicrobial Resistance Surveillance Reference Laboratory |
 +----------------------+-----------------------------------------------------------------+
 
-# **WORSHOP OBJECTIVES**
+# **WORKSHOP OBJECTIVES**
 
 The conduct of this workshop aims to:
 
