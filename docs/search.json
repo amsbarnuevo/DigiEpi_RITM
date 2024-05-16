@@ -341,5 +341,19 @@
     "title": "UNIT 4 - Digital Epidemiology Tool: MICROREACT",
     "section": "REFERENCES",
     "text": "REFERENCES\n[1] World Health Organization. https://www.who.int/news-room/fact-sheets/detail/antimicrobial5 resistance 6\n[2] Center for Disease Control and Prevention: National Center for Infectious Diseases and World 7 Health Organization: Department of Communicable Disease Surveillance and Response, Manual for 8 the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public 9 Health Importance in the Developing World, Geneva: World Health Organization, 2003 10\n[3] Natale, A., Stelling, J., Meledandri, M., Messenger, L. A., & D’Ancona, F. (2017). Use of WHONET11 SaTScan system for simulated real-time detection of antimicrobial resistance clusters in a hospital in 12 Italy, 2012 to 2014. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 13 communicable disease bulletin, 22(11), 30484. https://doi.org/10.2807/1560- 14 7917.ES.2017.22.11.30484 15\n[4] Huang, S. S., Yokoe, D. S., Stelling, J., Placzek, H., Kulldorff, M., Kleinman, K., O’Brien, T. F., 16 Calderwood, M. S., Vostok, J., Dunn, J., & Platt, R. (2010). Automated detection of infectious disease 17 outbreaks in hospitals: a retrospective cohort study. PLoS medicine, 7(2), e1000238. 18 https://doi.org/10.1371/journal.pmed.1000238 19\n[5] Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Susceptibility 20 Testing, 32nd edition ed., Wayne, Pennsylvania: Clinical and Laboratory Standards Institute, 2022. 21\n[6] De novo Assembly. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/assembly, 22\n[7] Phylogeny analysis. https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny 23\n[8] AMR prediction. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/amr_prediction, 24\n[9] International Committee of Medical Journal Editors. Defining the Roles of Authors and Contributors. 25 https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of26 authors-and-contributors.html 27\n[10] Vandepitte, Jozef, Engbaek, Kraesten, Rohner, P, Piot, Peter, Heuck, Claus C. et al. (2003). Basic 28 laboratory procedures in clinical bacteriology / J. Vandepitte … [et al.], 2nd ed. World Health 29 Organization."
+  },
+  {
+    "objectID": "quick_guide.html",
+    "href": "quick_guide.html",
+    "title": "Quick Guide Videos",
+    "section": "",
+    "text": "Video"
+  },
+  {
+    "objectID": "quick_guide.html#epicollect5",
+    "href": "quick_guide.html#epicollect5",
+    "title": "Quick Guide Videos",
+    "section": "",
+    "text": "Video"
   }
 ]

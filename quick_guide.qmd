@@ -1,0 +1,7 @@
+---
+title: "Quick Guide Videos"
+---
+
+## Epicollect5
+
+![](videos/Epicollect5.mp4)
