@@ -2,6 +2,6 @@
 title: "Agenda"
 ---
 
-The detailed agenda can be found [here.](https://drive.google.com/file/d/1KsIHI07GyVDnWRLvlHMoHkUBJr7kb6Uy/view?usp=sharing)
+The detailed agenda can be found [here.](https://drive.google.com/file/d/1dj_JHUJ3sASV0Zaq_K2rVbhLTezQr0Li/view?usp=drive_link)
 
 ![](img/wgs_workflow.png){fig-align="center"}
