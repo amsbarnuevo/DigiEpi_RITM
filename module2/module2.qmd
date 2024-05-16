@@ -12,7 +12,7 @@ At the end of this unit, the participants shall be able to:
 
 # ![](images/clipboard-2742305045.png){width="37"}**LESSON PROPER**
 
-The **Centre for Genomic Pathogen Surveillance (CGPS)** develops free web applications for data collection, integration, visualization, and analysis of genomic epidemiology data. Epicollect5 is a mobile & web application for free and easy data collection. It provides both the web and mobile applications for the generation of forms (questionnaires) and freely hosted project websites for data collection. Projects are created by using the web application at five.epicollect.net, and then downloaded to the device to perform the data collection. Data are collected in the field using multiple devices and all data can be viewed on a central server (via map, tables, and charts). 
+The **Centre for Genomic Pathogen Surveillance (CGPS)** develops free web applications for data collection, integration, visualization, and analysis of genomic epidemiology data. Epicollect5 is a mobile & web application for free and easy data collection. It provides both the web and mobile applications for the generation of forms (questionnaires) and freely hosted project websites for data collection. Projects are created by using the web application at five.epicollect.net, and then downloaded to the device to perform the data collection. Data are collected in the field using multiple devices and all data can be viewed on a central server (via map, tables, and charts).
 
 ### **Where to Download Epicollect5 Mobile Application?**
 
@@ -95,7 +95,7 @@ To learn and explore more on the advanced features of Epicollect5, click on the 
 For your further reading, the following journal articles below utilized Epicollect5 as their main data collection tool.
 
 | **Study Title**                                                                                                                                                                                                                          | Author/s               | DOI                                             |
-|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------|:------------------------------------------------|
+|:----------------------------------------------|:------------|:------------|
 | The unseen use of antimicrobials: Drivers of human antibiotic use in a community in Thailand and implications for surveillance                                                                                                           | Alhusein et al. 2024   | <https://doi.org/10.1080/17441692.2023.2298940> |
 | Antibiotic dispensing practices during COVID-19 and implications for antimicrobial resistance (AMR): parallel mystery client studies in Uganda and Tanzania                                                                              | Olamijuwon et al. 2023 | <https://doi.org/10.1186/s13756-022-01199-4>    |
 | Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021    | <https://doi.org/10.1136/bmjopen-2020-041418>   |
