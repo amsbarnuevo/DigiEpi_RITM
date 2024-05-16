@@ -34,8 +34,8 @@ website:
         text: Got a question?
           
     tools:
-      - icon: twitter
-        href: https://twitter.com/
+      - icon: link
+        href: https://www.arsp.com.ph
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
     left: "&copy; Copyright 2024, Antimicrobial Resistance Surveillance Reference Laboratory"
