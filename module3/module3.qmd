@@ -26,38 +26,37 @@ Pathogenwatch is a free web based tool for processing and visualization of micro
 
 Moreover, this tool provides extensive collections of publicly available microbial sequences, gathered by publication or survey where possible. The imported genomes are automatically annotated within the in-house pipelines of **Centre for Genomic Pathogen Surveillance (CGPS)** and the results available for download. Pathogenwatch also utilizes a clustering-based system allows the identification of near genomic neighbors for both local and global context mapping of your uploaded genomes. Lastly, this genomic tool makes use of powerful selection tool to integrate public genomes with your own and create a single collection. This collection can be viewed by public to facilitate sharing of insights among researchers.
 
-+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| Uploading Genomes to Pathogenwatch                                                                                            |                                                                 |
-+===============================================================================================================================+=================================================================+
-| **Open Pathogenwatch**                                                                                                        | ![](images/clipboard-1874442397.png)                            |
-|                                                                                                                               |                                                                 |
-| Navigate to <https://pathogen.watch/upload> and click on the “Single-genome FASTAs” image in the center of the screen.        |                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| **Upload your file**                                                                                                          | ![](images/clipboard-364393205.png)                             |
-|                                                                                                                               |                                                                 |
-| Click the plus button in the bottom right corner and then navigate to where your FASTA files, or FASTQ files are stored.      |                                                                 |
-+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| **View the genomes**                                                                                                          | ![](images/clipboard-1209165840.png){width="291"}               |
-+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
-| **Create and view collection**                                                                                                | ![](images/clipboard-904714304.png){width="589"}                |
-+-------------------------------------------------------------------------------------------------------------------------------+-----------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| Uploading Genomes to Pathogenwatch                                                                                       |                                                   |
++==========================================================================================================================+===================================================+
+| **Open Pathogenwatch**                                                                                                   | ![](images/clipboard-1874442397.png)              |
+|                                                                                                                          |                                                   |
+| Navigate to <https://pathogen.watch/upload> and click on the “Single-genome FASTAs” image in the center of the screen.   |                                                   |
++--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| **Upload your file**                                                                                                     | ![](images/clipboard-364393205.png)               |
+|                                                                                                                          |                                                   |
+| Click the plus button in the bottom right corner and then navigate to where your FASTA files, or FASTQ files are stored. |                                                   |
++--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| **View the genomes**                                                                                                     | ![](images/clipboard-1209165840.png){width="291"} |
++--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
+| **Create and view collection**                                                                                           | ![](images/clipboard-904714304.png){width="589"}  |
++--------------------------------------------------------------------------------------------------------------------------+---------------------------------------------------+
 
-+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| Exploring Genomes in Pathogenwatch                                                                                                               |
-+==================================================================================================================================================+
-| At the top left of the table you’ll see a lozenge button that says “Typing.” This will provide information on the multi locus sequencing type of |
-| the organism following the Pasteur scheme.                                                                                                       |
-|                                                                                                                                                  |
-| ![](images/clipboard-3142052682.png){width="907"}                                                                                                |
-+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| Next, click on the “Stats”, to show the quality control metrics for each of the isolate analyzed.                                                |
-|                                                                                                                                                  |
-| ![](images/clipboard-2669170310.png){width="897"}                                                                                                |
-+--------------------------------------------------------------------------------------------------------------------------------------------------+
-| Then, click on “AMR Determinants” to view the AMR genes observed in the isolates.                                                                |
-|                                                                                                                                                  |
-| ![](images/clipboard-4194954129.png){width="898"}                                                                                                |
-+--------------------------------------------------------------------------------------------------------------------------------------------------+
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Exploring Genomes in Pathogenwatch                                                                                                                                                          |
++=============================================================================================================================================================================================+
+| At the top left of the table you’ll see a lozenge button that says “Typing.” This will provide information on the multi locus sequencing type of the organism following the Pasteur scheme. |
+|                                                                                                                                                                                             |
+| ![](images/clipboard-3142052682.png){width="907"}                                                                                                                                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Next, click on the “Stats”, to show the quality control metrics for each of the isolate analyzed.                                                                                           |
+|                                                                                                                                                                                             |
+| ![](images/clipboard-2669170310.png){width="897"}                                                                                                                                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Then, click on “AMR Determinants” to view the AMR genes observed in the isolates.                                                                                                           |
+|                                                                                                                                                                                             |
+| ![](images/clipboard-4194954129.png){width="898"}                                                                                                                                           |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 In addition to providing big picture information about how isolates relate to each other, Pathogenwatch also provides individual reports that can be downloaded or printed to share with partners or submitters. The figures below show the generated report on one isolate.
 
@@ -93,15 +92,12 @@ To learn and explore more on the advanced features of Pathogenwatch, click on th
 
 For your further reading, the following journal articles below utilized Pathogenwatch for their study analysis.
 
-+--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
-| **Study Title**                                                                                                                            | **Author/s**               | **DOI**                                                                                       |
-+--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
-| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch                                                   | Argimon et al. 2021        | <https://doi.org/10.1093/cid/ciab784>                                                         |
-+--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
-| A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch     | Sanchez-Buso et al. 2021   | [doi:]{.underline} [10.1186/s13073-021-00858-2](https://doi.org/10.1186%2Fs13073-021-00858-2) |
-+--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
-| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch                | Argimon et al. 2021        | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
-+--------------------------------------------------------------------------------------------------------------------------------------------+----------------------------+-----------------------------------------------------------------------------------------------+
+|                                                                                                                                        |                          |                                                                                               |
+|----------------------------------------------------------------------------------------------------------------------------------------|--------------------------|-----------------------------------------------------------------------------------------------|
+| **Study Title**                                                                                                                        | **Author/s**             | **DOI**                                                                                       |
+| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch                                               | Argimon et al. 2021      | <https://doi.org/10.1093/cid/ciab784>                                                         |
+| A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch | Sanchez-Buso et al. 2021 | [doi:]{.underline} [10.1186/s13073-021-00858-2](https://doi.org/10.1186%2Fs13073-021-00858-2) |
+| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch            | Argimon et al. 2021      | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
 
 ## ![](images/clipboard-1825711664.png){width="37"}**CHECKPOINT**
 
@@ -116,7 +112,7 @@ C= Both statements are correct
 D = Both statements are incorrect
 
 +:------------------------------------:+:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-4063643643.png) | 1.  *Statement 1*: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.                                      |
+| ![](images/clipboard-4063643643.png) | 1.  *Statement 1*: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.                                      |
 |                                      |                                                                                                                                                                                           |
 |                                      |     *Statement 2:* The platform aids in developing targeted interventions by providing insights into the way pathogens evolve and spread.                                                 |
 +--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+

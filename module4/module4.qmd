@@ -20,30 +20,30 @@ Microreact is a web-based application for the provision of interactive data visu
 
 Microreact can be deployed securely on a local server, behind firewalls and adhering to local data governance. Users can make their Microreact projects findable on the network, or share them privately with another user by sharing a downloaded project or using secret links. Microreact projects for public consumption can be shared on the public Microreact site.
 
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Navigating the site                                                                                                                                                           |
-+===============================================================================================================================================================================+
-| **Click the menu icon**                                                                                                                                                       |
-|                                                                                                                                                                               |
-| The menu bar can be accessed by clicking on the ![](images/clipboard-3841067861.png){width="20"} icon on the upper left corner of the page.                                   |
-|                                                                                                                                                                               |
-| Clicking the icon brings up the main menu.                                                                                                                                    |
-|                                                                                                                                                                               |
-| ![](images/clipboard-1818299586.png){width="674"}                                                                                                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **View the four main pages**                                                                                                                                                  |
-|                                                                                                                                                                               |
-| This menu allows you to navigate the site. The site has four main pages:                                                                                                      |
-|                                                                                                                                                                               |
-| -   Showcase                                                                                                                                                                  |
-| -   Upload                                                                                                                                                                    |
-| -   Documentation                                                                                                                                                             |
-| -   My Account                                                                                                                                                                |
-|                                                                                                                                                                               |
-| You may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”.  |
-|                                                                                                                                                                               |
-| ![](images/clipboard-2215716855.png){width="650"}                                                                                                                             |
-+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Navigating the site                                                                                                                                                          |
++==============================================================================================================================================================================+
+| **Click the menu icon**                                                                                                                                                      |
+|                                                                                                                                                                              |
+| The menu bar can be accessed by clicking on the ![](images/clipboard-3841067861.png){width="20"} icon on the upper left corner of the page.                                  |
+|                                                                                                                                                                              |
+| Clicking the icon brings up the main menu.                                                                                                                                   |
+|                                                                                                                                                                              |
+| ![](images/clipboard-1818299586.png){width="674"}                                                                                                                            |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **View the four main pages**                                                                                                                                                 |
+|                                                                                                                                                                              |
+| This menu allows you to navigate the site. The site has four main pages:                                                                                                     |
+|                                                                                                                                                                              |
+| -   Showcase                                                                                                                                                                 |
+| -   Upload                                                                                                                                                                   |
+| -   Documentation                                                                                                                                                            |
+| -   My Account                                                                                                                                                               |
+|                                                                                                                                                                              |
+| You may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”. |
+|                                                                                                                                                                              |
+| ![](images/clipboard-2215716855.png){width="650"}                                                                                                                            |
++------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                      | Microreact Icon Summary                                                                                                                                            |
@@ -52,12 +52,11 @@ Microreact can be deployed securely on a local server, behind firewalls and adhe
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/clipboard-3981886174.png) | Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account.                                   |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-3817920621.png) | Opens a menu to let you edit or delete existing panels, as well as add a                                                                                           |
-|                                      | new panel.                                                                                                                                                         |
+| ![](images/clipboard-3817920621.png) | Opens a menu to let you edit or delete existing panels, as well as add a new panel.                                                                                |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-536453394.png)  | In this menu you can control selections for labels, colours, and shapes.                                                                                           |
+| ![](images/clipboard-536453394.png)  | In this menu you can control selections for labels, colours, and shapes.                                                                                           |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2564124677.png) | Download individual project files, such as the metadata file, .newick files, etc.                                                                                  |
+| ![](images/clipboard-2564124677.png) | Download individual project files, such as the metadata file, .newick files, etc.                                                                                  |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/clipboard-1840735995.png) | Update who has access to the project as well as find sharing links and create an easier alias link.                                                                |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -79,3 +78,128 @@ Microreact can be deployed securely on a local server, behind firewalls and adhe
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | ![](images/clipboard-823691398.png)  | In the map panel this viewport button filters the dashboard to only things currently visible in the map panel.                                                     |
 +--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+## ![](/images/clipboard-3256539318.png){width="37" height="35"}**CLOCK - UP**
+
+*This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.*
+
+1.  Open the link below to load the Microreact project. You may also access this throug the Workshop materials \> Project links.
+
+2.  Lend your ears to our esteemed facilitators as they demonstrate the following:
+
+    a.  Navigation of the four main pages of Microreact
+
+    b.  Discussion on the basic icons in the visualization tool.
+
+3.  Please explore the Microreact project and answer the guide question provided at the back of your standee. The facilitators will be glad to assist you on your queries.
+
+4.  After 10 minutes, we will call on each group to answer the assigned guide question.
+
+5.  Please work on all the guide questions on your individual worksheets.
+
+## ![](/images/clipboard-3395272049.png){width="37"}**FLICK**
+
+For your further reading, the following journal articles below utilized Microreact for their study analysis.
+
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+| **Study Title**                                                                                                                                                                                                                                     | **Author/s**        | **DOI**                                                         |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+| Methodological Approach to Identify and Expand the Volume of Antimicrobial Resistance (AMR) Data in the Human Health Sector in Low- and Middle-Income Countries in Asia: Implications for Local and Regional AMR Surveillance Systems Strengthening | Joh et al. 2023     | <https://doi.org/10.1093/cid/ciad634>                           |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA)            | Asiimwe et al. 2021 | doi: [10.1136/bmjopen-2020-041418](10.1136/bmjopen-2020-041418) |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+| Genomic Epidemiology and Multilevel Genome Typing of Australian Salmonella enterica Serovar Enteritidis                                                                                                                                             | Luo et al. 2023     | DOI: <https://doi.org/10.1128/spectrum.03014-22>                |
++-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+
+## ![](/images/clipboard-605683760.png){width="35"}**CHECKPOINT**
+
+A.  Load the provided microreact project for the outbreak investigation through the provided link. Explore the data by manipulating through the visualization tool and note the key findings.
+
+B.  With the provided Microreact project of the outbreak investigation, answer the following guide    questions as a group and be ready for a panel discussion afterwards.
+
+```{=html}
+<!-- -->
+```
+1.  On the month of May, how many isolates were from the ICU, medicine and surgery wards? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+2.  Among the cluster isolates, what is the most common comorbidity among patients? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+3.  Cluster isolate \_\_\_\_, was recovered from a PLHIV. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+4.  What is the sequence type of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+5.  What is the sequence type of the isolate from the ventilator machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+6.  What is the sequence type of the isolate from the suction machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+7.  What is the K locus of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+8.  What is the O locus of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+9.  How many non-cluster isolates were from patients who used the suction machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+10. How many non-cluster isolates were presumptive nosocomial?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+11. Which AMR gene was observed across all isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+12. What is the O locus type of the isolate from ventilator machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+13. Enumerate the antibiotics to which the cluster isolates showed resistance.
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+14. Enumerate the antibiotics to which the cluster isolates showed susceptibility.
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+15. Enumerate the antimicrobial resistance genes detected among the cluster isolates. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+16. Enumerate the antimicrobial resistance genes detected from the isolate recovered from the ventilator machine.
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+17. How many isolates were from the male and female patients?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+18. On the month of April, how many isolates were from the emergency department?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+19. What is the time difference between the suction machine use and specimen date of the isolate from the surgery department?
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+20. Cluster isolate \_\_\_\_, was recovered from a patient with solid cancer. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+21. What is the age range of patients with isolates included in the cluster?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+22. All isolates were observed to be resistant to \_\_\_. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+23. All isolates were observed to be susceptible to \_\_\_. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+24. Which isolate was found to be sequence type (ST) 17?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+25. Which isolate was found to be sequence type (ST) 15?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+26. Cluster isolate \_\_\_\_, was recovered from a patient with cystic fibrosis.
+
+    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+## ![](/images/clipboard-3395272049.png){width="35"}**REFERENCES**
+
+\[1\] World Health Organization. [https://www.who.int/news-room/fact-sheets/detail/antimicrobial5 resistance 6](https://www.who.int/news-room/fact-sheets/detail/antimicrobial5%20resistance%206)
+
+\[2\] Center for Disease Control and Prevention: National Center for Infectious Diseases and World 7 Health Organization: Department of Communicable Disease Surveillance and Response, Manual for 8 the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public 9 Health Importance in the Developing World, Geneva: World Health Organization, 2003 10
+
+\[3\] Natale, A., Stelling, J., Meledandri, M., Messenger, L. A., & D'Ancona, F. (2017). Use of WHONET11 SaTScan system for simulated real-time detection of antimicrobial resistance clusters in a hospital in 12 Italy, 2012 to 2014. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 13 communicable disease bulletin, 22(11), 30484. [https://doi.org/10.2807/1560- 14 7917.ES.2017.22.11.30484 15](https://doi.org/10.2807/1560-%2014%207917.ES.2017.22.11.30484%2015)
+
+\[4\] Huang, S. S., Yokoe, D. S., Stelling, J., Placzek, H., Kulldorff, M., Kleinman, K., O'Brien, T. F., 16 Calderwood, M. S., Vostok, J., Dunn, J., & Platt, R. (2010). Automated detection of infectious disease 17 outbreaks in hospitals: a retrospective cohort study. PLoS medicine, 7(2), e1000238. 18 [https://doi.org/10.1371/journal.pmed.1000238 19](https://doi.org/10.1371/journal.pmed.1000238%2019)
+
+\[5\] Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Susceptibility 20 Testing, 32nd edition ed., Wayne, Pennsylvania: Clinical and Laboratory Standards Institute, 2022. 21
+
+\[6\] De novo Assembly. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/assembly, 22
+
+\[7\] Phylogeny analysis. [https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny 23](https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny%2023)
+
+\[8\] AMR prediction. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/amr_prediction, 24
+
+\[9\] International Committee of Medical Journal Editors. Defining the Roles of Authors and Contributors. 25 https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of26 authors-and-contributors.html 27
+
+\[10\] Vandepitte, Jozef, Engbaek, Kraesten, Rohner, P, Piot, Peter, Heuck, Claus C. et al. (2003). Basic 28 laboratory procedures in clinical bacteriology / J. Vandepitte ... \[et al.\], 2nd ed. World Health 29 Organization.
