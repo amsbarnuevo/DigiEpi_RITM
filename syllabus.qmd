@@ -59,7 +59,7 @@ A written pre-test and post-test shall be administered before and after the trai
 +--------------------------------------+------------------------------------------------------------------------------------------------+
 | ![](images/clipboard-2568369782.png) | **BRAINWORK**                                                                                  |
 |                                      |                                                                                                |
-|                                      | Shows the summary of important concepts for each digital epidemiology tool.                    |
+|                                      | Short quizzes for each of the digital epidemiology tool.                                       |
 +--------------------------------------+------------------------------------------------------------------------------------------------+
 | ![](images/clipboard-1446194848.png) | **SNAPSHOT**                                                                                   |
 |                                      |                                                                                                |
