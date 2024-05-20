@@ -1,5 +1,5 @@
 ---
-title: "UNIT 1 - ARSRL SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol"
+title: "UNIT 1 - SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol"
 ---
 
 # ![](images/clipboard-1825711664.png){width="37"}**OUTLOOK**
@@ -48,8 +48,7 @@ b.  *Specific Objectives*
 
 ### **Rationale/ Significance**
 
-An outbreak of an infectious disease can have a tremendous effect on people's health, national economy, and social wellbeing, thus early discovery of an infectious disease allows for local epidemic containment, reducing negative public health impact. Routine epidemiological assessment alone may not
-sufficiently provide information to allow targeted control of the infection. The integration of machine learning such as SaTScan in laboratory management system in a surveillance program allows the real time spatio-temporal detection of bacterial isolate clustering.  Furthermore, coupled with the distinctive ability of whole genome sequencing and bioinformatics analyses of these cluster isolates confirms the occurrence of an outbreak. The use of SaTScan and WGS allows the reference laboratory to document and provide laboratory confirmation of the circulating agent of HAI and its resistance profile as well as the routes of transmission.
+An outbreak of an infectious disease can have a tremendous effect on people's health, national economy, and social wellbeing, thus early discovery of an infectious disease allows for local epidemic containment, reducing negative public health impact. Routine epidemiological assessment alone may not sufficiently provide information to allow targeted control of the infection. The integration of machine learning such as SaTScan in laboratory management system in a surveillance program allows the real time spatio-temporal detection of bacterial isolate clustering.  Furthermore, coupled with the distinctive ability of whole genome sequencing and bioinformatics analyses of these cluster isolates confirms the occurrence of an outbreak. The use of SaTScan and WGS allows the reference laboratory to document and provide laboratory confirmation of the circulating agent of HAI and its resistance profile as well as the routes of transmission.
 
 ### **Methodology**
 
@@ -59,8 +58,7 @@ The initial detection of increase in number and/ or clustering of isolates at th
 
 #### 2. ***Verification of Alerts at ARSRL Using SaTScan***
 
-The Data Management Unit (DMU) of ARSRL routinely conducts the SaTScan analysis every Friday of the week on the WHONET data transferred by the sites on a daily basis. Primarily, in running the SaTScan in WHONET software, cluster alerts were determined with “resistance profile” as summary row input. To
-confirm the detection of cluster based on identical resistance profile, the analysis is on “resistance profile” with “include cluster alerts”. In Figure 1, the specific analysis method to be used is “Space-Time Uniform – Simulated prospective”. The “maximum cluster length” and “baseline data” will be set at 180 days and 730 days respectively. On the other hand, the “recurrence interval” will be set at 365 days and “Monte Carlo simulations” at 9999.
+The Data Management Unit (DMU) of ARSRL routinely conducts the SaTScan analysis every Friday of the week on the WHONET data transferred by the sites on a daily basis. Primarily, in running the SaTScan in WHONET software, cluster alerts were determined with “resistance profile” as summary row input. To confirm the detection of cluster based on identical resistance profile, the analysis is on “resistance profile” with “include cluster alerts”. In Figure 1, the specific analysis method to be used is “Space-Time Uniform – Simulated prospective”. The “maximum cluster length” and “baseline data” will be set at 180 days and 730 days respectively. On the other hand, the “recurrence interval” will be set at 365 days and “Monte Carlo simulations” at 9999.
 
 ![Figure 1. SaTScan analysis default configuration](images/clipboard-2977891480.png){fig-align="left"}
 
@@ -206,8 +204,7 @@ In the interim, clusters not meeting any of the prioritization criteria will not
 
 #### ***4. Notification of Sentinel site Including line list of Isolates in the Cluster***
 
-A letter of notification addressed to the head of the laboratory and Infection Prevention and Control Committee of the hospital will be sent to the involved sentinel site. DMU staff will prepare the line list of cluster isolates with complete identification details of the patients for easy reference of the site bacteriology laboratory. The notification letter shall include information of the detected cluster and a request to send to ARSRL the isolates included in the line list for confirmation of bacterial identification
-and AST and whole genome sequencing. Aside from the patient isolates, environmental isolates will be also requested to be submitted if there are any.
+A letter of notification addressed to the head of the laboratory and Infection Prevention and Control Committee of the hospital will be sent to the involved sentinel site. DMU staff will prepare the line list of cluster isolates with complete identification details of the patients for easy reference of the site bacteriology laboratory. The notification letter shall include information of the detected cluster and a request to send to ARSRL the isolates included in the line list for confirmation of bacterial identification and AST and whole genome sequencing. Aside from the patient isolates, environmental isolates will be also requested to be submitted if there are any.
 
 #### 5. *Conduct of Initial Meeting with the Involved Sentinel site*
 
@@ -225,9 +222,7 @@ ARSRL will provide blank data extraction tool to sentinel site via *Epicollect5*
 
 #### 7*. Provision of Technical Report*
 
-ARSRL team shall develop the technical report of the genomic characterization of cluster isolates. This initial report will contain information on SaTScan results, the confirmed identification and AST profile of
-the isolates, isolate demographics, and genomic information (AMR genes, MLST, locus types, phylogenetic analysis). Moreover, the possible correlation of genomic and epidemiologic data
-will be discussed in this document.
+ARSRL team shall develop the technical report of the genomic characterization of cluster isolates. This initial report will contain information on SaTScan results, the confirmed identification and AST profile of the isolates, isolate demographics, and genomic information (AMR genes, MLST, locus types, phylogenetic analysis). Moreover, the possible correlation of genomic and epidemiologic data will be discussed in this document.
 
 #### 8. ***Conduct of Collaborative Meeting with the Involved Sentinel Site***
 

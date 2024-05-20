@@ -28,7 +28,6 @@ website:
             text: Microreact Project
           - pre_test/pre_test.qmd
           - post_test/post_test.qmd
-          - evaluation.qmd
           - quick_guide.qmd
       - href: https://9lzm79dg.forms.app/got-a-question-form
         text: Got a question?
