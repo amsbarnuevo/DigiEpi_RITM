@@ -68,16 +68,67 @@ To learn and explore more on the advanced features of Pathogenwatch, click on th
 
 <https://cgps.gitbook.io/pathogenwatch/>
 
+## ![](images/clipboard-65376900.png){width="37"}**CLOCK - UP**
+
+*This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.*
+
+1.  Lend your ears to our esteemed facilitators as they demonstrate the following:
+
+    a.  Uploading of genomes to Pathogenwatch
+
+    b.  Navigation through the lozenge buttons
+
+    c.  Create genome collection
+
+    d.  Describe the findings of the generated analyses in the individual report
+
+2.  Take down notes and scan the QR code below for any question.
+
+![](images/clipboard-3810601315.png){fig-align="center"}
+
+3.  Accomplish the following checkpoint exercise.
+
 ## ![](images/clipboard-2057582273.png){width="37"}**FLICK**
 
 For your further reading, the following journal articles below utilized Pathogenwatch for their study analysis.
 
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| **Study Title**                                                                                                                        | **Author/s**             | **DOI**                                                                                       |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch                                               | Argimon et al. 2021      | <https://doi.org/10.1093/cid/ciab784>                                                         |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
+|  |  |  |
+|----|----|----|
+| **Study Title** | **Author/s** | **DOI** |
+| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch | Argimon et al. 2021 | <https://doi.org/10.1093/cid/ciab784> |
 | A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch | Sanchez-Buso et al. 2021 | [doi:]{.underline} [10.1186/s13073-021-00858-2](https://doi.org/10.1186%2Fs13073-021-00858-2) |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch            | Argimon et al. 2021      | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
+| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch | Argimon et al. 2021 | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
+
+## ![](images/clipboard-1825711664.png){width="37"}**CHECKPOINT**
+
+Modified True or False:  For items 1-5, choose the letter that corresponds to your answer.
+
+A = The first statement is correct; the second statement is incorrect
+
+B = The first statement is incorrect; the second statement is correct
+
+C= Both statements are correct
+
+D = Both statements are incorrect
+
++:------------------------------------:+:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 1.  *Statement 1*: When using Pathogenwatch, users can easily monitor the spread of microbial pathogens across different time periods and locations.                                      |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* The platform aids in developing targeted interventions by providing insights into the way pathogens evolve and spread.                                                 |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 2.  *Statement 1:* Pathogenwatch facilitates epidemiologic studies of various microbial pathogens, including bacteria like *Klebsiella pneumoniae*, *Escherichia coli*, and among others. |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch can be integrated with existing surveillance systems                                                                                                     |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 3.  *Statement 1:* Pathogenwatch is a subscription-based service offered by Center for Genomic Pathogen Surveillance.                                                                     |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch is only accessible via software application to be installed in the computer.                                                                             |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 4.  *Statement 1:* The use of Pathogenwatch is exclusive and limited to low- and middle income countries only                                                                             |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:* Pathogenwatch has the capacity to predict and analyze genomic profiles including antimicrobial resistance determinants for potential emerging variants.                |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| ![](images/clipboard-4063643643.png) | 5.  *Statement 1:* By sharing genomic data and analysis tools, Pathogenwatch enables a coordinated response to infectious disease threats on a global scale.                              |
+|                                      |                                                                                                                                                                                           |
+|                                      |     *Statement 2:*  Pathogenwatch users have unlimited access to all data on disease outbreaks around the world.                                                                          |
++--------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
