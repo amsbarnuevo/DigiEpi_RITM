@@ -72,12 +72,9 @@ To learn and explore more on the advanced features of Pathogenwatch, click on th
 
 For your further reading, the following journal articles below utilized Pathogenwatch for their study analysis.
 
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| **Study Title**                                                                                                                        | **Author/s**             | **DOI**                                                                                       |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch                                               | Argimon et al. 2021      | <https://doi.org/10.1093/cid/ciab784>                                                         |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
+|  |  |  |
+|----|----|----|
+| **Study Title** | **Author/s** | **DOI** |
+| Rapid Genomic Characterization and Global Surveillance of Klebsiella Using Pathogenwatch | Argimon et al. 2021 | <https://doi.org/10.1093/cid/ciab784> |
 | A community-driven resource for genomic epidemiology and antimicrobial resistance prediction of Neisseria gonorrhoeae at Pathogenwatch | Sanchez-Buso et al. 2021 | [doi:]{.underline} [10.1186/s13073-021-00858-2](https://doi.org/10.1186%2Fs13073-021-00858-2) |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
-| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch            | Argimon et al. 2021      | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |
-+----------------------------------------------------------------------------------------------------------------------------------------+--------------------------+-----------------------------------------------------------------------------------------------+
+| A global resource for genomic predictions of antimicrobial resistance and surveillance of Salmonella Typhi at pathogenwatch | Argimon et al. 2021 | [doi:]{.underline} [10.1038/s41467-021-23091-2](https://doi.org/10.1038%2Fs41467-021-23091-2) |

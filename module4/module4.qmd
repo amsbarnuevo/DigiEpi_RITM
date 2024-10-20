@@ -1,205 +1,183 @@
 ---
-title: "UNIT 4 - Digital Epidemiology Tool: MICROREACT"
+title: "UNIT 4 - Digital Epidemiology Tool: DATA-FLO"
 ---
 
 # ![](images/clipboard-166322687.png){width="37"}**OUTLOOK**
 
 At the end of this unit, the participants shall be able to:
 
--   recognize the key features and uses of Microreact
+-   identify the key features of Dataflo; and
 
--   manipulate the data visualization tool; and
-
--   analyze the inputs in the Microreact project
+-   recognize the basic Dataflo terminologies and functions
 
 # ![](images/clipboard-2742305045.png){width="37"}**LESSON PROPER**
 
-Microreact is software developed by CGPS that allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact, or a .microreact file can be downloaded for sharing with collaborators.
+Data-flois an open-source web application for data integration. It provides an easy-to-use visual interface to design reusable Workflows (data pipelines) that import, merge, clean, and manipulate data in many different ways. Once a Workflow has been created, it can be run anytime, by anyone with access, to enable push-button data extraction and transformation.
 
-Microreact is a web-based application for the provision of interactive data visualisations. It enables the rapid generation and linkage of trees, maps, networks, charts and timelines, enabling epidemiologists and key decision makers to react faster and with greater accuracy.
+![](images/clipboard-2560427181.png){width="650"}
 
-Microreact can be deployed securely on a local server, behind firewalls and adhering to local data governance. Users can make their Microreact projects findable on the network, or share them privately with another user by sharing a downloaded project or using secret links. Microreact projects for public consumption can be shared on the public Microreact site.
+#### Why use Data-flo?
 
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| Navigating the site                                                                                                                                                          |
-+==============================================================================================================================================================================+
-| **Click the menu icon**                                                                                                                                                      |
-|                                                                                                                                                                              |
-| The menu bar can be accessed by clicking on the ![](images/clipboard-3841067861.png){width="20"} icon on the upper left corner of the page.                                  |
-|                                                                                                                                                                              |
-| Clicking the icon brings up the main menu.                                                                                                                                   |
-|                                                                                                                                                                              |
-| ![](images/clipboard-1818299586.png){width="674"}                                                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **View the four main pages**                                                                                                                                                 |
-|                                                                                                                                                                              |
-| This menu allows you to navigate the site. The site has four main pages:                                                                                                     |
-|                                                                                                                                                                              |
-| -   Showcase                                                                                                                                                                 |
-| -   Upload                                                                                                                                                                   |
-| -   Documentation                                                                                                                                                            |
-| -   My Account                                                                                                                                                               |
-|                                                                                                                                                                              |
-| You may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”. |
-|                                                                                                                                                                              |
-| ![](images/clipboard-2215716855.png){width="650"}                                                                                                                            |
-+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+Data-flo saves you time by removing the bulk of the manual repetitive workflows that require multiple, sequential, or tedious steps, enabling you to focus on analysis and interpretation.
 
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                      | Microreact Icon Summary                                                                                                                                            |
-+:====================================:+:===================================================================================================================================================================+
-| **Icon**                             | **Description**                                                                                                                                                    |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-3981886174.png) | Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account.                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-3817920621.png) | Opens a menu to let you edit or delete existing panels, as well as add a new panel.                                                                                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-536453394.png)  | In this menu you can control selections for labels, colours, and shapes.                                                                                           |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2564124677.png) | Download individual project files, such as the metadata file, .newick files, etc.                                                                                  |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1840735995.png) | Update who has access to the project as well as find sharing links and create an easier alias link.                                                                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2187273493.png) | Allows you to save a new project, update a current project, or download a file containing the complete project.                                                    |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1446240851.png) | This is the configure icon. It expands or collapses additional buttons or menus.                                                                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1171686000.png) | Maximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size.                                                              |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-418523427.png)  | This is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter.                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2700201066.png) | Shuffles the nodes in a network.                                                                                                                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1860303903.png) | Automatically adjust the tree or network size to the current panel size                                                                                            |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-377978205.png)  | Controls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes. |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-295290660.png)  | This appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns                                         |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-823691398.png)  | In the map panel this viewport button filters the dashboard to only things currently visible in the map panel.                                                     |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+Armed with Data-flo, users can:
 
-## ![](/images/clipboard-3256539318.png){width="37" height="35"}**CLOCK - UP**
+-   Rapidly prepare data for visualisation, and reporting
 
-*This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.*
+-   Easily share processed data between teams
 
-1.  Open the link below to load the Microreact project. You may also access this throug the Workshop materials \> Project links.
+-   Consistently reproduce and validate data transformation procedures for updated or new datasets
 
-2.  Lend your ears to our esteemed facilitators as they demonstrate the following:
+-   Seamlessly integrate data from multiple databases and sources
 
-    a.  Navigation of the four main pages of Microreact
+-   Automatically update a Microreact project with fresh data
 
-    b.  Discussion on the basic icons in the visualization tool.
+While Data-flo is used across many sectors (data science, academia, public health institutions etc.), it contains a number of features tailored to manage bioinformatics-related datasets such as Newick files, tree files, etc.
 
-3.  Please explore the Microreact project and answer the guide question provided at the back of your standee. The facilitators will be glad to assist you on your queries.
+#### Data-flo introduction
 
-4.  After 10 minutes, we will call on each group to answer the assigned guide question.
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| Logging into your Data-flo account                                                                                                                                                                                                                                                    |                                      |
++=======================================================================================================================================================================================================================================================================================+======================================+
+| **Open Data-flo**                                                                                                                                                                                                                                                                     | ![](images/clipboard-2986548499.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Navigate to Data-flo.                                                                                                                                                                                                                                                                 |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   Use [[https://next.data-flo.io/]{.underline}](https://next.data-flo.io/) to access the public site.                                                                                                                                                                               |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   Use the link provided by your IT team to access your locally installed version.                                                                                                                                                                                                   |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Select your preferred sign in method. Input the relevant login credentials                                                                                                                                                                                                            |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   If using the public site, you will create your own login credentials (or use the credentials associated with your sign in method i.e. Google or Twitter)                                                                                                                          |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| If using a locally installed version, use the login credentials assigned by your IT department                                                                                                                                                                                        |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **View your homepage**                                                                                                                                                                                                                                                                | ![](images/clipboard-1327915186.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Once signed in, all of your Workflow projects will appear on the main page.                                                                                                                                                                                                           |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| ![](/images/tip.png){width="21"} Tip - Make sure you don’t put any protected health information into the **public site**, always use your local installation for sensitive data.                                                                                                      |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Navigating Data-flo**                                                                                                                                                                                                                                                               |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Search your Workflows**                                                                                                                                                                                                                                                             | ![](images/clipboard-214183092.png)  |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Use the search bar at the top of the screen to locate specific workflow projects.                                                                                                                                                                                                     |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Access Data-flo’s main menu**                                                                                                                                                                                                                                                       | ![](images/clipboard-598227659.png)  |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Select the ![](/images/burger.png) at the upper leftmost corner of the screen.                                                                                                                                                                                                        | ![](images/clipboard-4078009304.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| This allows you to access the site’s main pages:                                                                                                                                                                                                                                      | ![](images/clipboard-3433440108.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   **Workflows**: This is your homepage. It is the page that appears when you log into the site. It displays all your Data-flo projects.                                                                                                                                             |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   **Documentation**: This brings you to Data-flo’s gitbook page containing documentation and user guides.                                                                                                                                                                           |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| -   **My Account**: Brings you to the Workflow page                                                                                                                                                                                                                                   |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| **Send Feedback**: This allows you to access a form to report bugs or errors in the site.                                                                                                                                                                                             |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Data-flo Edit and Run pages**                                                                                                                                                                                                                                                       |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Accessing the editor page**                                                                                                                                                                                                                                                         | ![](images/clipboard-4254693469.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| All Data-flo projects are created and edited via the Editor page. This page displays the canvas and lists all the adaptors that can be added to a Data-flo project.                                                                                                                   |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Accessing the run page**                                                                                                                                                                                                                                                            | ![](images/clipboard-1100190083.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Once a Data-flo project has been created, it can be run by anyone with access by uploading the necessary data files.                                                                                                                                                                  |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| The run page is where users can upload specific files and run the pipeline created on the editor page. The user will upload the data inputs or files specified in the editor page, and see the data outputs whether a csv, url or other file type.                                    |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| Toggle between the Editor and Run pages by clicking the edit and run buttons at the top right corner of the screen.                                                                                                                                                                   |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Sharing Workflows between users**                                                                                                                                                                                                                                                   |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| Data-flo gives you the option of sharing your Workflows with other users. You can control whether the other users can manage, edit or run your Workflow.                                                                                                                              | ![](images/clipboard-3521034598.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| For example, users can be given access to the editor page if they are allowed to edit the Workflow such as changing adaptors or managing the input arguments. Alternatively, users may be restricted to accessing only the run page if they only require the outputs of the Workflow. | ![](images/clipboard-3325942411.png) |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| **Manager level:** Users can edit the workflow and share access with other users.                                                                                                                                                                                                     |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| **Editor level**: Users can view both the editor and run pages and can edit the workflow.                                                                                                                                                                                             |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| **Viewer level:** Users can view the run page and also duplicate the workflow to save in their account. It is no longer tied to the original workflow and any edits they make are not reflected in the original workflow.                                                             |                                      |
+|                                                                                                                                                                                                                                                                                       |                                      |
+| **Runner:** Users can access the run page only. They can input the required files and will only see the outputs of the Workflow.                                                                                                                                                      |                                      |
++---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
 
-5.  Please work on all the guide questions on your individual worksheets.
+#### Data-flo Terminology
 
-## ![](/images/clipboard-3395272049.png){width="37"}**FLICK**
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Workflows**                                                                                                                                                                                                                                                           | ![](images/clipboard-4233259183.png) |
+|                                                                                                                                                                                                                                                                         |                                      |
+| Workflows are Data-flo’s pipelines. They are combinations of adaptors that work together to edit, clean, merge and transform your data.                                                                                                                                 |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| Users set up a Workflow to perform data integration & manipulation: Ingesting data from one or more data-sources, combining, cleaning, harmonising, and reshaping it, and then sending the data onward in a format that’s ready for downstream applications or sharing. |                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Canvas**                                                                                                                                                                                                                                                              | ![](images/clipboard-1356561848.png) |
+|                                                                                                                                                                                                                                                                         |                                      |
+| The canvas appears on the Editor page where Workflows are built.                                                                                                                                                                                                        |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| On the canvas, you can create, edit, and test Workflows to ensure they are functioning as intended.                                                                                                                                                                     |                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Adaptors**                                                                                                                                                                                                                                                            | ![](images/clipboard-816076280.png)  |
+|                                                                                                                                                                                                                                                                         |                                      |
+| Adaptors are the individual steps that make up a Workflow.                                                                                                                                                                                                              |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| There are adaptors that import data, export data and transform data.                                                                                                                                                                                                    |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| Each adaptor is pre-coded to transform data (such as changing column names, concatenating columns, filtering datasets, merging datasets) but users can customise adaptor arguments to tailor to their needs.                                                            |                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
+| **Adaptor input arguments and outputs**                                                                                                                                                                                                                                 | ![](images/clipboard-870375068.png)  |
+|                                                                                                                                                                                                                                                                         |                                      |
+| Each adaptor consists of one or more options that users define to customise how the adaptor will treat your data.                                                                                                                                                       |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| The inputs appear on the left side column of every adaptor. Some adaptors need multiple inputs (such as a join adaptor).                                                                                                                                                |                                      |
+|                                                                                                                                                                                                                                                                         |                                      |
+| The adaptor outputs appear on the right side column of each adaptor; this is the output of each transformed dataset. There may be one or more outputs.                                                                                                                  |                                      |
++-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------+
 
-For your further reading, the following journal articles below utilized Microreact for their study analysis.
+#### Data-flo basic functions and features
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| **Study Title**                                                                                                                                                                                                                                     | **Author/s**        | **DOI**                                                         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Methodological Approach to Identify and Expand the Volume of Antimicrobial Resistance (AMR) Data in the Human Health Sector in Low- and Middle-Income Countries in Asia: Implications for Local and Regional AMR Surveillance Systems Strengthening | Joh et al. 2023     | <https://doi.org/10.1093/cid/ciad634>                           |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA)            | Asiimwe et al. 2021 | doi: [10.1136/bmjopen-2020-041418](10.1136/bmjopen-2020-041418) |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Genomic Epidemiology and Multilevel Genome Typing of Australian Salmonella enterica Serovar Enteritidis                                                                                                                                             | Luo et al. 2023     | DOI: <https://doi.org/10.1128/spectrum.03014-22>                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| **Add a new adaptor**                                                                                                                                                                                                                                                                | ![](images/clipboard-3464763901.png)       |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| To begin building a workflow, users must add adaptors to the canvas.                                                                                                                                                                                                                 |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| On the editor page which displays the canvas, navigate to the upper left corner to the ![](images/clipboard-213463488.png) plus icon.                                                                                                                                                |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| Alternatively, when first opening the canvas, a panel on the right side is called “Add a new step”. This panel displays all available adaptors. Scroll through the list and double click one to add it to your canvas.                                                               |                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| **Connect two adaptors**                                                                                                                                                                                                                                                             | ![](images/clipboard-2920959782.png)       |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| Adaptors can be linked together to combine their functions in sequence. Connecting adaptors is how to create a pipeline or Workflow. A connection takes the data output from one adaptor and inputs it to another adaptor to continue processing the data.                           |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| Add at least two desired adaptors to the Canvas. Click the circle next to the output of the first adaptor. A grey *connector* will appear. Drag the connector to an input argument of the second adaptor.                                                                            |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| ![](images/clipboard-1175485669.png) The data type must be compatible for a connection to be made, if the input for an adaptor is a datatable and you attempt to connect it to an adaptor with a list output, the connection won’t work.                                             |                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| **Running the Workflow in Editor**                                                                                                                                                                                                                                                   | ![](images/clipboard-2712773845.png)       |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| When all required input arguments are correctly programmed, users can Test Run the workflow on the Editor page to ensure it functions as expected. Navigate to the upper left menu and click the ![](images/clipboard-4253324961.png) Test run button. If there are no errors in the |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| Workflow, all adaptors will be outlined in green.                                                                                                                                                                                                                                    |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| Clicking the “data” output will display the processed dataset. You may scroll through the data to ensure it meets your requirements.                                                                                                                                                 |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| ![](images/clipboard-1175485669.png) Clicking test run after each new adaptor can help you troubleshoot along the way and evaluate the output of each step as you build the workflow.                                                                                                |                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
+| **Debugging Workflow errors**                                                                                                                                                                                                                                                        | ![](images/clipboard-1525435559.png)       |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| The Editor page allows you to build your workflows but also to test and debug them. After a workflow is run, if there are errors in any adaptors, the adaptor with the error will highlight in red and the right panel will give a brief error message.                              |                                            |
+|                                                                                                                                                                                                                                                                                      |                                            |
+| In the image to the right, an error is appearing because we did not connect the previous adaptor and thus the red adaptor has no data input to process.                                                                                                                              |                                            |
++--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+
 
-## ![](/images/clipboard-605683760.png){width="35"}**CHECKPOINT**
+## ![](images/clipboard-801822518.png){width="37"}BRAINWORK
 
-A.  Load the provided microreact project for the outbreak investigation through the provided link. Explore the data by manipulating through the visualization tool and note the key findings.
+To learn and explore more on the advanced features of Data-flo, click on the link below:
 
-B.  With the provided Microreact project of the outbreak investigation, answer the following guide    questions as a group and be ready for a panel discussion afterwards.
-
-```{=html}
-<!-- -->
-```
-1.  On the month of May, how many isolates were from the ICU, medicine and surgery wards? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-2.  Among the cluster isolates, what is the most common comorbidity among patients? \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-3.  Cluster isolate \_\_\_\_, was recovered from a PLHIV. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-4.  What is the sequence type of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-5.  What is the sequence type of the isolate from the ventilator machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-6.  What is the sequence type of the isolate from the suction machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-7.  What is the K locus of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-8.  What is the O locus of the cluster isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-9.  How many non-cluster isolates were from patients who used the suction machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-10. How many non-cluster isolates were presumptive nosocomial?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-11. Which AMR gene was observed across all isolates?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-12. What is the O locus type of the isolate from ventilator machine?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-13. Enumerate the antibiotics to which the cluster isolates showed resistance.
-
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-14. Enumerate the antibiotics to which the cluster isolates showed susceptibility.
-
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-15. Enumerate the antimicrobial resistance genes detected among the cluster isolates. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-16. Enumerate the antimicrobial resistance genes detected from the isolate recovered from the ventilator machine.
-
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-17. How many isolates were from the male and female patients?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-18. On the month of April, how many isolates were from the emergency department?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-19. What is the time difference between the suction machine use and specimen date of the isolate from the surgery department?
-
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-20. Cluster isolate \_\_\_\_, was recovered from a patient with solid cancer. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-21. What is the age range of patients with isolates included in the cluster?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-22. All isolates were observed to be resistant to \_\_\_. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-23. All isolates were observed to be susceptible to \_\_\_. \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-24. Which isolate was found to be sequence type (ST) 17?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-25. Which isolate was found to be sequence type (ST) 15?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-26. Cluster isolate \_\_\_\_, was recovered from a patient with cystic fibrosis.
-
-    \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-
-## ![](/images/clipboard-3395272049.png){width="35"}**REFERENCES**
-
-\[1\] World Health Organization. [https://www.who.int/news-room/fact-sheets/detail/antimicrobial5 resistance 6](https://www.who.int/news-room/fact-sheets/detail/antimicrobial5%20resistance%206)
-
-\[2\] Center for Disease Control and Prevention: National Center for Infectious Diseases and World 7 Health Organization: Department of Communicable Disease Surveillance and Response, Manual for 8 the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public 9 Health Importance in the Developing World, Geneva: World Health Organization, 2003 10
-
-\[3\] Natale, A., Stelling, J., Meledandri, M., Messenger, L. A., & D'Ancona, F. (2017). Use of WHONET11 SaTScan system for simulated real-time detection of antimicrobial resistance clusters in a hospital in 12 Italy, 2012 to 2014. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 13 communicable disease bulletin, 22(11), 30484. [https://doi.org/10.2807/1560- 14 7917.ES.2017.22.11.30484 15](https://doi.org/10.2807/1560-%2014%207917.ES.2017.22.11.30484%2015)
-
-\[4\] Huang, S. S., Yokoe, D. S., Stelling, J., Placzek, H., Kulldorff, M., Kleinman, K., O'Brien, T. F., 16 Calderwood, M. S., Vostok, J., Dunn, J., & Platt, R. (2010). Automated detection of infectious disease 17 outbreaks in hospitals: a retrospective cohort study. PLoS medicine, 7(2), e1000238. 18 [https://doi.org/10.1371/journal.pmed.1000238 19](https://doi.org/10.1371/journal.pmed.1000238%2019)
-
-\[5\] Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Susceptibility 20 Testing, 32nd edition ed., Wayne, Pennsylvania: Clinical and Laboratory Standards Institute, 2022. 21
-
-\[6\] De novo Assembly. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/assembly, 22
-
-\[7\] Phylogeny analysis. [https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny 23](https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny%2023)
-
-\[8\] AMR prediction. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/amr_prediction, 24
-
-\[9\] International Committee of Medical Journal Editors. Defining the Roles of Authors and Contributors. 25 https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of26 authors-and-contributors.html 27
-
-\[10\] Vandepitte, Jozef, Engbaek, Kraesten, Rohner, P, Piot, Peter, Heuck, Claus C. et al. (2003). Basic 28 laboratory procedures in clinical bacteriology / J. Vandepitte ... \[et al.\], 2nd ed. World Health 29 Organization.
+<https://cgps.gitbook.io/data-flo>
