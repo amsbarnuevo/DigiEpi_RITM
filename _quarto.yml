@@ -25,7 +25,7 @@ website:
           - module5/module5.qmd
       - text: Workshop Materials
         menu:
-          - href: https://microreact.org/project/digiepiworkshop
+          - href: https://microreact.org/project/kpn-digiepi-fhi360
             text: Microreact Project
           - microreact_activity.qmd
           - pre_test/pre_test.qmd
