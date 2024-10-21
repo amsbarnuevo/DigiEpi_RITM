@@ -45,53 +45,34 @@ Microreact can be deployed securely on a local server, behind firewalls and adhe
 | ![](images/clipboard-2215716855.png){width="650"}                                                                                                                            |
 +------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                      | Microreact Icon Summary                                                                                                                                            |
-+:====================================:+:===================================================================================================================================================================+
-| **Icon**                             | **Description**                                                                                                                                                    |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-3981886174.png) | Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account.                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-3817920621.png) | Opens a menu to let you edit or delete existing panels, as well as add a new panel.                                                                                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-536453394.png)  | In this menu you can control selections for labels, colours, and shapes.                                                                                           |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2564124677.png) | Download individual project files, such as the metadata file, .newick files, etc.                                                                                  |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1840735995.png) | Update who has access to the project as well as find sharing links and create an easier alias link.                                                                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2187273493.png) | Allows you to save a new project, update a current project, or download a file containing the complete project.                                                    |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1446240851.png) | This is the configure icon. It expands or collapses additional buttons or menus.                                                                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1171686000.png) | Maximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size.                                                              |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-418523427.png)  | This is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter.                |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-2700201066.png) | Shuffles the nodes in a network.                                                                                                                                   |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-1860303903.png) | Automatically adjust the tree or network size to the current panel size                                                                                            |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-377978205.png)  | Controls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes. |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-295290660.png)  | This appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns                                         |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| ![](images/clipboard-823691398.png)  | In the map panel this viewport button filters the dashboard to only things currently visible in the map panel.                                                     |
-+--------------------------------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+|   | Microreact Icon Summary |
+|:--:|:---|
+| **Icon** | **Description** |
+| ![](images/clipboard-3981886174.png) | Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account. |
+| ![](images/clipboard-3817920621.png) | Opens a menu to let you edit or delete existing panels, as well as add a new panel. |
+| ![](images/clipboard-536453394.png) | In this menu you can control selections for labels, colours, and shapes. |
+| ![](images/clipboard-2564124677.png) | Download individual project files, such as the metadata file, .newick files, etc. |
+| ![](images/clipboard-1840735995.png) | Update who has access to the project as well as find sharing links and create an easier alias link. |
+| ![](images/clipboard-2187273493.png) | Allows you to save a new project, update a current project, or download a file containing the complete project. |
+| ![](images/clipboard-1446240851.png) | This is the configure icon. It expands or collapses additional buttons or menus. |
+| ![](images/clipboard-1171686000.png) | Maximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size. |
+| ![](images/clipboard-418523427.png) | This is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter. |
+| ![](images/clipboard-2700201066.png) | Shuffles the nodes in a network. |
+| ![](images/clipboard-1860303903.png) | Automatically adjust the tree or network size to the current panel size |
+| ![](images/clipboard-377978205.png) | Controls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes. |
+| ![](images/clipboard-295290660.png) | This appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns |
+| ![](images/clipboard-823691398.png) | In the map panel this viewport button filters the dashboard to only things currently visible in the map panel. |
 
 ## ![](/images/clipboard-3395272049.png){width="37"}**FLICK**
 
 For your further reading, the following journal articles below utilized Microreact for their study analysis.
 
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| **Study Title**                                                                                                                                                                                                                                     | **Author/s**        | **DOI**                                                         |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Methodological Approach to Identify and Expand the Volume of Antimicrobial Resistance (AMR) Data in the Human Health Sector in Low- and Middle-Income Countries in Asia: Implications for Local and Regional AMR Surveillance Systems Strengthening | Joh et al. 2023     | <https://doi.org/10.1093/cid/ciad634>                           |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA)            | Asiimwe et al. 2021 | doi: [10.1136/bmjopen-2020-041418](10.1136/bmjopen-2020-041418) |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
-| Genomic Epidemiology and Multilevel Genome Typing of Australian Salmonella enterica Serovar Enteritidis                                                                                                                                             | Luo et al. 2023     | DOI: <https://doi.org/10.1128/spectrum.03014-22>                |
-+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+---------------------+-----------------------------------------------------------------+
+|  |  |  |
+|----|----|----|
+| **Study Title** | **Author/s** | **DOI** |
+| Methodological Approach to Identify and Expand the Volume of Antimicrobial Resistance (AMR) Data in the Human Health Sector in Low- and Middle-Income Countries in Asia: Implications for Local and Regional AMR Surveillance Systems Strengthening | Joh et al. 2023 | <https://doi.org/10.1093/cid/ciad634> |
+| Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA) | Asiimwe et al. 2021 | doi: [10.1136/bmjopen-2020-041418](10.1136/bmjopen-2020-041418) |
+| Genomic Epidemiology and Multilevel Genome Typing of Australian Salmonella enterica Serovar Enteritidis | Luo et al. 2023 | DOI: <https://doi.org/10.1128/spectrum.03014-22> |
 
 ## ![](/images/clipboard-3395272049.png){width="35"}**REFERENCES**
 

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>ARSRL DigiEpi Workshop - UNIT 4 - Digital Epidemiology Tool: MICROREACT</title>
+<title>ARSRL DigiEpi Workshop - UNIT 4 - Digital Epidemiology Tool: DATA-FLO</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -114,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
     <ul class="dropdown-menu" aria-labelledby="nav-menu-module">    
         <li>
     <a class="dropdown-item" href="../module1/module1.html">
- <span class="dropdown-text">UNIT 1 - ARSRL SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol</span></a>
+ <span class="dropdown-text">UNIT 1 - SaTScan and Whole Genome Sequencing Enhanced Outbreak Investigation Protocol</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../module2/module2.html">
@@ -126,7 +126,11 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="../module4/module4.html">
- <span class="dropdown-text">UNIT 4 - Digital Epidemiology Tool: MICROREACT</span></a>
+ <span class="dropdown-text">UNIT 4 - Digital Epidemiology Tool: DATA-FLO</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../module5/module5.html">
+ <span class="dropdown-text">UNIT 5 - Digital Epidemiology Tool: MICROREACT</span></a>
   </li>  
     </ul>
   </li>
@@ -136,6 +140,10 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-workshop-materials">    
         <li>
+    <a class="dropdown-item" href="https://microreact.org/project/digiepiworkshop">
+ <span class="dropdown-text">Microreact Project</span></a>
+  </li>  
+        <li>
     <a class="dropdown-item" href="../pre_test/pre_test.html">
  <span class="dropdown-text">Pre-test</span></a>
   </li>  
@@ -144,8 +152,8 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Post-test</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../evaluation.html">
- <span class="dropdown-text">Evaluation</span></a>
+    <a class="dropdown-item" href="../quick_guide.html">
+ <span class="dropdown-text">Quick Guide Videos</span></a>
   </li>  
     </ul>
   </li>
@@ -156,7 +164,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
-    <a href="https://twitter.com/" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-twitter"></i></a>
+    <a href="https://www.arsp.com.ph" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-link"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -173,10 +181,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#outlook" id="toc-outlook" class="nav-link active" data-scroll-target="#outlook"><img src="images/clipboard-166322687.png" class="img-fluid" width="37"><strong>OUTLOOK</strong></a></li>
   <li><a href="#lesson-proper" id="toc-lesson-proper" class="nav-link" data-scroll-target="#lesson-proper"><img src="images/clipboard-2742305045.png" class="img-fluid" width="37"><strong>LESSON PROPER</strong></a>
   <ul class="collapse">
-  <li><a href="#clock---up" id="toc-clock---up" class="nav-link" data-scroll-target="#clock---up"><img src="..\images/clipboard-3256539318.png" width="37" height="35"><strong>CLOCK - UP</strong></a></li>
-  <li><a href="#flick" id="toc-flick" class="nav-link" data-scroll-target="#flick"><img src="..\images/clipboard-3395272049.png" class="img-fluid" width="37"><strong>FLICK</strong></a></li>
-  <li><a href="#checkpoint" id="toc-checkpoint" class="nav-link" data-scroll-target="#checkpoint"><img src="..\images/clipboard-605683760.png" class="img-fluid" width="35"><strong>CHECKPOINT</strong></a></li>
-  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references"><img src="..\images/clipboard-3395272049.png" class="img-fluid" width="35"><strong>REFERENCES</strong></a></li>
+  <li><a href="#brainwork" id="toc-brainwork" class="nav-link" data-scroll-target="#brainwork"><img src="images/clipboard-801822518.png" class="img-fluid" width="37">BRAINWORK</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -186,7 +191,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">UNIT 4 - Digital Epidemiology Tool: MICROREACT</h1>
+<h1 class="title">UNIT 4 - Digital Epidemiology Tool: DATA-FLO</h1>
 </div>
 
 
@@ -207,216 +212,197 @@ ul.task-list li input[type="checkbox"] {
 <h1><img src="images/clipboard-166322687.png" class="img-fluid" width="37"><strong>OUTLOOK</strong></h1>
 <p>At the end of this unit, the participants shall be able to:</p>
 <ul>
-<li><p>recognize the key features and uses of Microreact</p></li>
-<li><p>manipulate the data visualization tool; and</p></li>
-<li><p>analyze the inputs in the Microreact project</p></li>
+<li><p>identify the key features of Dataflo; and</p></li>
+<li><p>recognize the basic Dataflo terminologies and functions</p></li>
 </ul>
 </section>
 <section id="lesson-proper" class="level1">
 <h1><img src="images/clipboard-2742305045.png" class="img-fluid" width="37"><strong>LESSON PROPER</strong></h1>
-<p>Microreact is software developed by CGPS that allows you to upload, visualise and explore any combination of clustering (trees), geographic (map) and temporal (timeline) data. Other metadata variables are displayed in a table. You can specify colours and/or shapes to display on the map, tree and/or timeline. A permanent URL is produced for you to share your Microreact, or a .microreact file can be downloaded for sharing with collaborators.</p>
-<p>Microreact is a web-based application for the provision of interactive data visualisations. It enables the rapid generation and linkage of trees, maps, networks, charts and timelines, enabling epidemiologists and key decision makers to react faster and with greater accuracy.</p>
-<p>Microreact can be deployed securely on a local server, behind firewalls and adhering to local data governance. Users can make their Microreact projects findable on the network, or share them privately with another user by sharing a downloaded project or using secret links. Microreact projects for public consumption can be shared on the public Microreact site.</p>
-<table class="table">
-<colgroup>
-<col style="width: 100%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Navigating the site</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><strong>Click the menu icon</strong></p>
-<p>The menu bar can be accessed by clicking on the <img src="images/clipboard-3841067861.png" class="img-fluid" width="20">&nbsp;icon on the upper left corner of the page.</p>
-<p>Clicking the icon brings up the main menu.</p>
-<p><img src="images/clipboard-1818299586.png" class="img-fluid" width="674"></p></td>
-</tr>
-<tr class="even">
-<td><p><strong>View the four main pages</strong></p>
-<p>This menu allows you to navigate the site. The site has four main pages:</p>
+<p>Data-flois an open-source web application for data integration. It provides an easy-to-use visual interface to design reusable Workflows (data pipelines) that import, merge, clean, and manipulate data in many different ways. Once a Workflow has been created, it can be run anytime, by anyone with access, to enable push-button data extraction and transformation.</p>
+<p><img src="images/clipboard-2560427181.png" class="img-fluid" width="650"></p>
+<section id="why-use-data-flo" class="level4">
+<h4 class="anchored" data-anchor-id="why-use-data-flo">Why use Data-flo?</h4>
+<p>Data-flo saves you time by removing the bulk of the manual repetitive workflows that require multiple, sequential, or tedious steps, enabling you to focus on analysis and interpretation.</p>
+<p>Armed with Data-flo, users can:</p>
 <ul>
-<li>Showcase</li>
-<li>Upload</li>
-<li>Documentation</li>
-<li>My Account</li>
+<li><p>Rapidly prepare data for visualisation, and reporting</p></li>
+<li><p>Easily share processed data between teams</p></li>
+<li><p>Consistently reproduce and validate data transformation procedures for updated or new datasets</p></li>
+<li><p>Seamlessly integrate data from multiple databases and sources</p></li>
+<li><p>Automatically update a Microreact project with fresh data</p></li>
 </ul>
-<p>You may also use this menu to sign out of your account by clicking “Sign Out”. You may also submit feedback to the developers about Microreact by selecting “Send Feedback”.</p>
-<p><img src="images/clipboard-2215716855.png" class="img-fluid" width="650"></p></td>
-</tr>
-</tbody>
-</table>
+<p>While Data-flo is used across many sectors (data science, academia, public health institutions etc.), it contains a number of features tailored to manage bioinformatics-related datasets such as Newick files, tree files, etc.</p>
+</section>
+<section id="data-flo-introduction" class="level4">
+<h4 class="anchored" data-anchor-id="data-flo-introduction">Data-flo introduction</h4>
 <table class="table">
 <colgroup>
-<col style="width: 19%">
-<col style="width: 80%">
+<col style="width: 55%">
+<col style="width: 45%">
 </colgroup>
 <thead>
 <tr class="header">
-<th style="text-align: center;"></th>
-<th style="text-align: left;">Microreact Icon Summary</th>
+<th>Logging into your Data-flo account</th>
+<th></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><strong>Icon</strong></td>
-<td style="text-align: left;"><strong>Description</strong></td>
+<td><p><strong>Open Data-flo</strong></p>
+<p>Navigate to Data-flo.</p>
+<ul>
+<li><p>Use <a href="https://next.data-flo.io/"><u>https://next.data-flo.io/</u></a> to access the public site.</p></li>
+<li><p>Use the link provided by your IT team to access your locally installed version.</p></li>
+</ul>
+<p>Select your preferred sign in method. Input the relevant login credentials</p>
+<ul>
+<li>If using the public site, you will create your own login credentials (or use the credentials associated with your sign in method i.e.&nbsp;Google or Twitter)</li>
+</ul>
+<p>If using a locally installed version, use the login credentials assigned by your IT department</p></td>
+<td><img src="images/clipboard-2986548499.png" class="img-fluid" width="329"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-3981886174.png" class="img-fluid"></td>
-<td style="text-align: left;">Display additional menu options. It can be found either within individual panels, or at the top left of your microreact account.</td>
+<td><p><strong>View your homepage</strong></p>
+<p>Once signed in, all of your Workflow projects will appear on the main page.</p>
+<p><img src="..\images/tip.png" class="img-fluid" width="21">&nbsp;Tip - Make sure you don’t put any protected health information into the <strong>public site</strong>, always use your local installation for sensitive data.</p></td>
+<td><img src="images/clipboard-1327915186.png" class="img-fluid"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-3817920621.png" class="img-fluid"></td>
-<td style="text-align: left;">Opens a menu to let you edit or delete existing panels, as well as add a new panel.</td>
+<td><strong>Navigating Data-flo</strong></td>
+<td></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-536453394.png" class="img-fluid"></td>
-<td style="text-align: left;">In this menu you can control selections for labels, colours, and shapes.</td>
+<td><p><strong>Search your Workflows</strong></p>
+<p>Use the search bar at the top of the screen to locate specific workflow projects.</p></td>
+<td><img src="images/clipboard-214183092.png" class="img-fluid"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-2564124677.png" class="img-fluid"></td>
-<td style="text-align: left;">Download individual project files, such as the metadata file, .newick files, etc.</td>
+<td><p><strong>Access Data-flo’s main menu</strong></p>
+<p>Select the <img src="..\images/burger.png" class="img-fluid"> at the upper leftmost corner of the screen.</p>
+<p>This allows you to access the site’s main pages:</p>
+<ul>
+<li><p><strong>Workflows</strong>: This is your homepage. It is the page that appears when you log into the site. It displays all your Data-flo projects.</p></li>
+<li><p><strong>Documentation</strong>: This brings you to Data-flo’s gitbook page containing documentation and user guides.</p></li>
+<li><p><strong>My Account</strong>: Brings you to the Workflow page</p></li>
+</ul>
+<p><strong>Send Feedback</strong>: This allows you to access a form to report bugs or errors in the site.</p></td>
+<td><p><img src="images/clipboard-598227659.png" class="img-fluid"></p>
+<p><img src="images/clipboard-4078009304.png" class="img-fluid"></p>
+<p><img src="images/clipboard-3433440108.png" class="img-fluid"></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-1840735995.png" class="img-fluid"></td>
-<td style="text-align: left;">Update who has access to the project as well as find sharing links and create an easier alias link.</td>
+<td><strong>Data-flo Edit and Run pages</strong></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-2187273493.png" class="img-fluid"></td>
-<td style="text-align: left;">Allows you to save a new project, update a current project, or download a file containing the complete project.</td>
+<td><p><strong>Accessing the editor page</strong></p>
+<p>All Data-flo projects are created and edited via the Editor page. This page displays the canvas and lists all the adaptors that can be added to a Data-flo project.</p></td>
+<td><img src="images/clipboard-4254693469.png" class="img-fluid" width="331"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-1446240851.png" class="img-fluid"></td>
-<td style="text-align: left;">This is the configure icon. It expands or collapses additional buttons or menus.</td>
+<td><p><strong>Accessing the run page</strong></p>
+<p>Once a Data-flo project has been created, it can be run by anyone with access by uploading the necessary data files.</p>
+<p>The run page is where users can upload specific files and run the pipeline created on the editor page. The user will upload the data inputs or files specified in the editor page, and see the data outputs whether a csv, url or other file type.</p>
+<p>Toggle between the Editor and Run pages by clicking the edit and run buttons at the top right corner of the screen.</p></td>
+<td><img src="images/clipboard-1100190083.png" class="img-fluid" width="330"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-1171686000.png" class="img-fluid"></td>
-<td style="text-align: left;">Maximise expands one panel to cover the whole dashboard, minimise returns the panel to standard size.</td>
+<td><strong>Sharing Workflows between users</strong></td>
+<td></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-418523427.png" class="img-fluid"></td>
-<td style="text-align: left;">This is the lasso tool (or polygon lasso). It allows you to draw a filter around points of interest on a network or tree to create a custom filter.</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-2700201066.png" class="img-fluid"></td>
-<td style="text-align: left;">Shuffles the nodes in a network.</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-1860303903.png" class="img-fluid"></td>
-<td style="text-align: left;">Automatically adjust the tree or network size to the current panel size</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-377978205.png" class="img-fluid"></td>
-<td style="text-align: left;">Controls whether the tree is stretched/compressed in all four directions, only horizontally, or only vertically. Click the icon to toggle through the three modes.</td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><img src="images/clipboard-295290660.png" class="img-fluid"></td>
-<td style="text-align: left;">This appears in the data table headers and allows you to filter by values or build filter conditions in any of the columns</td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><img src="images/clipboard-823691398.png" class="img-fluid"></td>
-<td style="text-align: left;">In the map panel this viewport button filters the dashboard to only things currently visible in the map panel.</td>
+<td><p>Data-flo gives you the option of sharing your Workflows with other users. You can control whether the other users can manage, edit or run your Workflow.</p>
+<p>For example, users can be given access to the editor page if they are allowed to edit the Workflow such as changing adaptors or managing the input arguments. Alternatively, users may be restricted to accessing only the run page if they only require the outputs of the Workflow.</p>
+<p><strong>Manager level:</strong> Users can edit the workflow and share access with other users.</p>
+<p><strong>Editor level</strong>: Users can view both the editor and run pages and can edit the workflow.</p>
+<p><strong>Viewer level:</strong> Users can view the run page and also duplicate the workflow to save in their account. It is no longer tied to the original workflow and any edits they make are not reflected in the original workflow.</p>
+<p><strong>Runner:</strong> Users can access the run page only. They can input the required files and will only see the outputs of the Workflow.</p></td>
+<td><p><img src="images/clipboard-3521034598.png" class="img-fluid"></p>
+<p><img src="images/clipboard-3325942411.png" class="img-fluid" width="330"></p></td>
 </tr>
 </tbody>
 </table>
-<section id="clock---up" class="level2">
-<h2 class="anchored" data-anchor-id="clock---up"><img src="..\images/clipboard-3256539318.png" width="37" height="35"><strong>CLOCK - UP</strong></h2>
-<p><em>This section of the module will include the actual group activities during the workshop. Kindly follow the instructions below.</em></p>
-<ol type="1">
-<li><p>Open the link below to load the Microreact project. You may also access this throug the Workshop materials &gt; Project links.</p></li>
-<li><p>Lend your ears to our esteemed facilitators as they demonstrate the following:</p>
-<ol type="a">
-<li><p>Navigation of the four main pages of Microreact</p></li>
-<li><p>Discussion on the basic icons in the visualization tool.</p></li>
-</ol></li>
-<li><p>Please explore the Microreact project and answer the guide question provided at the back of your standee. The facilitators will be glad to assist you on your queries.</p></li>
-<li><p>After 10 minutes, we will call on each group to answer the assigned guide question.</p></li>
-<li><p>Please work on all the guide questions on your individual worksheets.</p></li>
-</ol>
 </section>
-<section id="flick" class="level2">
-<h2 class="anchored" data-anchor-id="flick"><img src="..\images/clipboard-3395272049.png" class="img-fluid" width="37"><strong>FLICK</strong></h2>
-<p>For your further reading, the following journal articles below utilized Microreact for their study analysis.</p>
+<section id="data-flo-terminology" class="level4">
+<h4 class="anchored" data-anchor-id="data-flo-terminology">Data-flo Terminology</h4>
 <table class="table">
+<colgroup>
+<col style="width: 55%">
+<col style="width: 45%">
+</colgroup>
 <tbody>
 <tr class="odd">
-<td><strong>Study Title</strong></td>
-<td><strong>Author/s</strong></td>
-<td><strong>DOI</strong></td>
+<td><p><strong>Workflows</strong></p>
+<p>Workflows are Data-flo’s pipelines. They are combinations of adaptors that work together to edit, clean, merge and transform your data.</p>
+<p>Users set up a Workflow to perform data integration &amp; manipulation: Ingesting data from one or more data-sources, combining, cleaning, harmonising, and reshaping it, and then sending the data onward in a format that’s ready for downstream applications or sharing.</p></td>
+<td><img src="images/clipboard-4233259183.png" class="img-fluid"></td>
 </tr>
 <tr class="even">
-<td>Methodological Approach to Identify and Expand the Volume of Antimicrobial Resistance (AMR) Data in the Human Health Sector in Low- and Middle-Income Countries in Asia: Implications for Local and Regional AMR Surveillance Systems Strengthening</td>
-<td>Joh et al.&nbsp;2023</td>
-<td><a href="https://doi.org/10.1093/cid/ciad634" class="uri">https://doi.org/10.1093/cid/ciad634</a></td>
+<td><p><strong>Canvas</strong></p>
+<p>The canvas appears on the Editor page where Workflows are built.</p>
+<p>On the canvas, you can create, edit, and test Workflows to ensure they are functioning as intended.</p></td>
+<td><img src="images/clipboard-1356561848.png" class="img-fluid" width="325"></td>
 </tr>
 <tr class="odd">
-<td>Protocol for an interdisciplinary cross-sectional study investigating the social, biological and community-level drivers of antimicrobial resistance (AMR): Holistic Approach to Unravel Antibacterial Resistance in East Africa (HATUA)</td>
-<td>Asiimwe et al.&nbsp;2021</td>
-<td>doi:&nbsp;<a href="10.1136/bmjopen-2020-041418">10.1136/bmjopen-2020-041418</a></td>
+<td><p><strong>Adaptors</strong></p>
+<p>Adaptors are the individual steps that make up a Workflow.</p>
+<p>There are adaptors that import data, export data and transform data.</p>
+<p>Each adaptor is pre-coded to transform data (such as changing column names, concatenating columns, filtering datasets, merging datasets) but users can customise adaptor arguments to tailor to their needs.</p></td>
+<td><img src="images/clipboard-816076280.png" class="img-fluid" width="329"></td>
 </tr>
 <tr class="even">
-<td>Genomic Epidemiology and Multilevel Genome Typing of Australian Salmonella enterica Serovar Enteritidis</td>
-<td>Luo et al.&nbsp;2023</td>
-<td>DOI: <a href="https://doi.org/10.1128/spectrum.03014-22" class="uri">https://doi.org/10.1128/spectrum.03014-22</a></td>
+<td><p><strong>Adaptor input arguments and outputs</strong></p>
+<p>Each adaptor consists of one or more options that users define to customise how the adaptor will treat your data.</p>
+<p>The inputs appear on the left side column of every adaptor. Some adaptors need multiple inputs (such as a join adaptor).</p>
+<p>The adaptor outputs appear on the right side column of each adaptor; this is the output of each transformed dataset. There may be one or more outputs.</p></td>
+<td><img src="images/clipboard-870375068.png" class="img-fluid" width="319"></td>
 </tr>
 </tbody>
 </table>
 </section>
-<section id="checkpoint" class="level2">
-<h2 class="anchored" data-anchor-id="checkpoint"><img src="..\images/clipboard-605683760.png" class="img-fluid" width="35"><strong>CHECKPOINT</strong></h2>
-<ol type="A">
-<li><p>Load the provided microreact project for the outbreak investigation through the provided link. Explore the data by manipulating through the visualization tool and note the key findings.</p></li>
-<li><p>With the provided Microreact project of the outbreak investigation, answer the following guide&nbsp;&nbsp;&nbsp; questions as a group and be ready for a panel discussion afterwards.</p></li>
-</ol>
-<!-- -->
-<ol type="1">
-<li><p>On the month of May, how many isolates were from the ICU, medicine and surgery wards? _______________________________________________________________________________________________</p></li>
-<li><p>Among the cluster isolates, what is the most common comorbidity among patients? _______________________________________________________________________________________________</p></li>
-<li><p>Cluster isolate ____, was recovered from a PLHIV. _______________________________________________________________________________________________</p></li>
-<li><p>What is the sequence type of the cluster isolates?_______________________________________________________________________________________________</p></li>
-<li><p>What is the sequence type of the isolate from the ventilator machine?_______________________________________________________________________________________________</p></li>
-<li><p>What is the sequence type of the isolate from the suction machine?_______________________________________________________________________________________________</p></li>
-<li><p>What is the K locus of the cluster isolates?_______________________________________________________________________________________________</p></li>
-<li><p>What is the O locus of the cluster isolates?_______________________________________________________________________________________________</p></li>
-<li><p>How many non-cluster isolates were from patients who used the suction machine?_______________________________________________________________________________________________</p></li>
-<li><p>How many non-cluster isolates were presumptive nosocomial?_______________________________________________________________________________________________</p></li>
-<li><p>Which AMR gene was observed across all isolates?_______________________________________________________________________________________________</p></li>
-<li><p>What is the O locus type of the isolate from ventilator machine?_______________________________________________________________________________________________</p></li>
-<li><p>Enumerate the antibiotics to which the cluster isolates showed resistance.</p>
-<p>_______________________________________________________________________________________________</p></li>
-<li><p>Enumerate the antibiotics to which the cluster isolates showed susceptibility.</p>
-<p>_______________________________________________________________________________________________</p></li>
-<li><p>Enumerate the antimicrobial resistance genes detected among the cluster isolates. _______________________________________________________________________________________________</p></li>
-<li><p>Enumerate the antimicrobial resistance genes detected from the isolate recovered from the ventilator machine.</p>
-<p>_______________________________________________________________________________________________</p></li>
-<li><p>How many isolates were from the male and female patients?_______________________________________________________________________________________________</p></li>
-<li><p>On the month of April, how many isolates were from the emergency department?_______________________________________________________________________________________________</p></li>
-<li><p>What is the time difference between the suction machine use and specimen date of the isolate from the surgery department?</p>
-<p>_______________________________________________________________________________________________</p></li>
-<li><p>Cluster isolate ____, was recovered from a patient with solid cancer. _______________________________________________________________________________________________</p></li>
-<li><p>What is the age range of patients with isolates included in the cluster?_______________________________________________________________________________________________</p></li>
-<li><p>All isolates were observed to be resistant to ___. _______________________________________________________________________________________________</p></li>
-<li><p>All isolates were observed to be susceptible to ___. _______________________________________________________________________________________________</p></li>
-<li><p>Which isolate was found to be sequence type (ST) 17?_______________________________________________________________________________________________</p></li>
-<li><p>Which isolate was found to be sequence type (ST) 15?_______________________________________________________________________________________________</p></li>
-<li><p>Cluster isolate ____, was recovered from a patient with cystic fibrosis.</p>
-<p>_______________________________________________________________________________________________</p></li>
-</ol>
+<section id="data-flo-basic-functions-and-features" class="level4">
+<h4 class="anchored" data-anchor-id="data-flo-basic-functions-and-features">Data-flo basic functions and features</h4>
+<table class="table">
+<colgroup>
+<col style="width: 55%">
+<col style="width: 45%">
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Add a new adaptor</strong></p>
+<p>To begin building a workflow, users must add adaptors to the canvas.</p>
+<p>On the editor page which displays the canvas, navigate to the upper left corner to the <img src="images/clipboard-213463488.png" class="img-fluid"> plus icon.</p>
+<p>Alternatively, when first opening the canvas, a panel on the right side is called “Add a new step”. This panel displays all available adaptors. Scroll through the list and double click one to add it to your canvas.</p></td>
+<td><img src="images/clipboard-3464763901.png" class="img-fluid" width="308"></td>
+</tr>
+<tr class="even">
+<td><p><strong>Connect two adaptors</strong></p>
+<p>Adaptors can be linked together to combine their functions in sequence. Connecting adaptors is how to create a pipeline or Workflow. A connection takes the data output from one adaptor and inputs it to another adaptor to continue processing the data.</p>
+<p>Add at least two desired adaptors to the Canvas. Click the circle next to the output of the first adaptor. A grey <em>connector</em> will appear. Drag the connector to an input argument of the second adaptor.</p>
+<p><img src="images/clipboard-1175485669.png" class="img-fluid"> The data type must be compatible for a connection to be made, if the input for an adaptor is a datatable and you attempt to connect it to an adaptor with a list output, the connection won’t work.</p></td>
+<td><img src="images/clipboard-2920959782.png" class="img-fluid" width="396"></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Running the Workflow in Editor</strong></p>
+<p>When all required input arguments are correctly programmed, users can Test Run the workflow on the Editor page to ensure it functions as expected. Navigate to the upper left menu and click the <img src="images/clipboard-4253324961.png" class="img-fluid"> Test run button. If there are no errors in the</p>
+<p>Workflow, all adaptors will be outlined in green.</p>
+<p>Clicking the “data” output will display the processed dataset. You may scroll through the data to ensure it meets your requirements.</p>
+<p><img src="images/clipboard-1175485669.png" class="img-fluid"> Clicking test run after each new adaptor can help you troubleshoot along the way and evaluate the output of each step as you build the workflow.</p></td>
+<td><img src="images/clipboard-2712773845.png" class="img-fluid" width="425"></td>
+</tr>
+<tr class="even">
+<td><p><strong>Debugging Workflow errors</strong></p>
+<p>The Editor page allows you to build your workflows but also to test and debug them. After a workflow is run, if there are errors in any adaptors, the adaptor with the error will highlight in red and the right panel will give a brief error message.</p>
+<p>In the image to the right, an error is appearing because we did not connect the previous adaptor and thus the red adaptor has no data input to process.</p></td>
+<td><img src="images/clipboard-1525435559.png" class="img-fluid"></td>
+</tr>
+</tbody>
+</table>
 </section>
-<section id="references" class="level2">
-<h2 class="anchored" data-anchor-id="references"><img src="..\images/clipboard-3395272049.png" class="img-fluid" width="35"><strong>REFERENCES</strong></h2>
-<p>[1] World Health Organization. <a href="https://www.who.int/news-room/fact-sheets/detail/antimicrobial5%20resistance%206">https://www.who.int/news-room/fact-sheets/detail/antimicrobial5 resistance 6</a></p>
-<p>[2] Center for Disease Control and Prevention: National Center for Infectious Diseases and World 7 Health Organization: Department of Communicable Disease Surveillance and Response, Manual for 8 the Laboratory Identification and Antimicrobial Susceptibility Testing of Bacterial Pathogens of Public 9 Health Importance in the Developing World, Geneva: World Health Organization, 2003 10</p>
-<p>[3] Natale, A., Stelling, J., Meledandri, M., Messenger, L. A., &amp; D’Ancona, F. (2017). Use of WHONET11 SaTScan system for simulated real-time detection of antimicrobial resistance clusters in a hospital in 12 Italy, 2012 to 2014. Euro surveillance : bulletin Europeen sur les maladies transmissibles = European 13 communicable disease bulletin, 22(11), 30484. <a href="https://doi.org/10.2807/1560-%2014%207917.ES.2017.22.11.30484%2015">https://doi.org/10.2807/1560- 14 7917.ES.2017.22.11.30484 15</a></p>
-<p>[4] Huang, S. S., Yokoe, D. S., Stelling, J., Placzek, H., Kulldorff, M., Kleinman, K., O’Brien, T. F., 16 Calderwood, M. S., Vostok, J., Dunn, J., &amp; Platt, R. (2010). Automated detection of infectious disease 17 outbreaks in hospitals: a retrospective cohort study. PLoS medicine, 7(2), e1000238. 18 <a href="https://doi.org/10.1371/journal.pmed.1000238%2019">https://doi.org/10.1371/journal.pmed.1000238 19</a></p>
-<p>[5] Clinical and Laboratory Standards Institute, Performance Standards for Antimicrobial Susceptibility 20 Testing, 32nd edition ed., Wayne, Pennsylvania: Clinical and Laboratory Standards Institute, 2022. 21</p>
-<p>[6] De novo Assembly. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/assembly, 22</p>
-<p>[7] Phylogeny analysis. <a href="https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny%2023">https://gitlab.com/cgps/ghru/pipelines/snp_phylogeny 23</a></p>
-<p>[8] AMR prediction. https://gitlab.com/cgps/ghru/pipelines/dsl2/pipelines/amr_prediction, 24</p>
-<p>[9] International Committee of Medical Journal Editors. Defining the Roles of Authors and Contributors. 25 https://www.icmje.org/recommendations/browse/roles-and-responsibilities/defining-the-role-of26 authors-and-contributors.html 27</p>
-<p>[10] Vandepitte, Jozef, Engbaek, Kraesten, Rohner, P, Piot, Peter, Heuck, Claus C. et al.&nbsp;(2003). Basic 28 laboratory procedures in clinical bacteriology / J. Vandepitte … [et al.], 2nd ed.&nbsp;World Health 29 Organization.</p>
+<section id="brainwork" class="level2">
+<h2 class="anchored" data-anchor-id="brainwork"><img src="images/clipboard-801822518.png" class="img-fluid" width="37">BRAINWORK</h2>
+<p>To learn and explore more on the advanced features of Data-flo, click on the link below:</p>
+<p><a href="https://cgps.gitbook.io/data-flo" class="uri">https://cgps.gitbook.io/data-flo</a></p>
 
 
 </section>
