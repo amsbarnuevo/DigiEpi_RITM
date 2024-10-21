@@ -2,4 +2,4 @@
 title: "2024 Digital Epidemiology Workshop"
 ---
 
-![](images/workshop_logo_new.gif){fig-align="center" width="482"}
+![](images/Workshop_Logo_Final.gif){fig-align="center" width="587"}
