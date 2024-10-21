@@ -4,7 +4,7 @@ tbl-colwidths: [20,80]
 ---
 
 | Group Number | Microreact Project Link |
-|:----------------------------------:|:-----------------------------------|
+|:--:|:---|
 | 1 | <https://microreact.org/project/4kJjFVPWe3TbfwFtqY3ED8> |
 | 2 | <https://microreact.org/project/eDRh8N1gx66onGUvPAsQik-uk-sars-cov-2-2020-02-052022-02-11> |
 | 3 | <https://microreact.org/project/west-african-ebola-epidemic?tt=rc> |
