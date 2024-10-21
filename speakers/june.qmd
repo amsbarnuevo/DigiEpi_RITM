@@ -1,5 +1,5 @@
 ---
-title: "David Michael Aanensen, MSc, PhD (Bioinformatics)"
+title: "June M. Gayeta"
 ---
 
 ::: {layout-ncol="2"}
