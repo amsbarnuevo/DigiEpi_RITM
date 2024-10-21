@@ -7,7 +7,7 @@ title: "Meet the Resource Speakers"
 
 [![Georgina Lewis-Woodhouse, MRes](img/georgie_cgps.jpg)](speakers/georgie.qmd)
 
-[![Sonia B. Sia, MD, FPAFP, FPSP, MPM](img/docsonia_ritm.jpg)](speakers/sonia.qmd)
+[![Sonia B. Sia, MD, FPAFP, FPSP, MPM](speakers/img/docsonia_ritm.png){width="850"}](speakers/sonia.qmd)
 
 [![June M. Gayeta](speakers/img/sirjune_ritm.png)](speakers/june.qmd)
 
