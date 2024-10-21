@@ -4,41 +4,29 @@ title: "SYLLABUS"
 
 # **MODULE SPECIFICATION**
 
-|                      |                                                                 |
-|----------------------|-----------------------------------------------------------------|
++----------------------+-----------------------------------------------------------------+
 | **Target Audience**  | Public Health Professionals                                     |
-| **Learning Hours**   | 10 hours                                                        |
++----------------------+-----------------------------------------------------------------+
+| **Learning Hours**   | 8 hours                                                         |
++----------------------+-----------------------------------------------------------------+
 | **Module Developer** | RITM-Antimicrobial Resistance Surveillance Reference Laboratory |
++----------------------+-----------------------------------------------------------------+
 
 # **WORKSHOP OBJECTIVES**
 
 The conduct of this workshop aims to:
 
-![](images/viber_image_2024-05-20_13-48-07-561.jpg)
-
-# **CONTENT OVERVIEW**
-
--   Discussion on the steps of ARSRL SaTScan and Whole Genome Sequencing enhanced outbreak investigation protocol.
-
--   Discussion on the role of WGS in public health and outbreak investigation.
-
--   Discussion on the overview of the following digital epidemiology tools: Epicollect5, Pathogenwatch and Microreact.
-
--   Hands-on activities on the use of Epicollect5, Pathogenwatch and Microreact.
+![](images/clipboard-3889529227.png){width="682"}
 
 # **LEARNING OUTCOMES**
 
 After this workshop, the participants are expected to:
 
-![](images/viber_image_2024-05-20_13-48-32-008.jpg)
+![](images/clipboard-1513208943.png)
 
 # **ASSESSMENT OF LEARNING OUTCOMES**
 
-A written pre-test and post-test shall be administered before and after the training. All participants will be provided with a worksheet that will include formative assessment activities for each of the five learning outcomes of the workshop.
-
-# WORKSHOP FLOW DIAGRAM
-
-![](images/clipboard-3389325393.png)
+A pre-test and post-test shall be administered before and after the training via online platform. All participants will be provided with a printed worksheet that will include formative assessment activities for the learning outcomes of the workshop. The accomplished worksheets shall be presented to the workshop secretariat prior to the issuance of their certificate of participation.
 
 # **HOW THIS MODULE WORKS?**
 
