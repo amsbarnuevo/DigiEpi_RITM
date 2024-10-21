@@ -1,0 +1,16 @@
+---
+title: "Microreact Project Links"
+tbl-colwidths: [20,80]
+---
+
+| Group Number | Microreact Project Link |
+|:------------------:|:---------------------------------------------------|
+| 1 | <https://microreact.org/project/4kJjFVPWe3TbfwFtqY3ED8> |
+| 2 | <https://microreact.org/project/eDRh8N1gx66onGUvPAsQik-uk-sars-cov-2-2020-02-052022-02-11> |
+| 3 | <https://microreact.org/project/west-african-ebola-epidemic?tt=rc> |
+| 4 | <https://microreact.org/project/t3oxnHhmZrAhtuw6mamutc-b-abortusglobal-phylogenomic-diversity> |
+| 5 | <https://microreact.org/project/choleraeurope> |
+| 6 | <https://microreact.org/project/5DEFpeck4> |
+| 7 | <https://microreact.org/project/8DhMNEmMEbFUsvK9xHS349-foz> |
+| 8 | <https://microreact.org/project/aV7RHNCBmG3sJ2rwzchE4k-peru-2003-2018-molecular-surveillance-with-p-falciparum-ampliseq-assay> |
+| 9 | <https://microreact.org/project/CZaifLUuW> |

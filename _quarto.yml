@@ -27,6 +27,7 @@ website:
         menu:
           - href: https://microreact.org/project/digiepiworkshop
             text: Microreact Project
+          - microreact_activity.qmd
           - pre_test/pre_test.qmd
           - post_test/post_test.qmd
           - quick_guide.qmd
