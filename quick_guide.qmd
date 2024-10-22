@@ -4,16 +4,16 @@ title: "Quick Guide Videos"
 
 ## Epicollect5
 
-![](videos/QUICK GUIDE - Epicollect5.mp4)
+![](videos/QUICK%20GUIDE%20-%20Epicollect5.mp4)
 
 ## Pathogenwatch
 
-![](videos/QUICK GUIDE - Pathogenwatch.mp4)
+![](videos/QUICK%20GUIDE%20-%20Pathogenwatch.mp4)
 
 ## Data-Flo
 
-![](videos/QUICK GUIDE - Data-Flo.mp4)
+![](videos/QUICK%20GUIDE%20-%20Data-Flo.mp4)
 
 ## Microreact
 
-![](videos/QUICK GUIDE - Microreact .mp4)
+![](videos/QUICK%20GUIDE%20-%20Microreact%20.mp4)
