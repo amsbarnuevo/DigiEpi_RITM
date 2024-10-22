@@ -4,7 +4,7 @@ title: "2024 Digital Epidemiology Workshop"
 
 <center>
 
-<video muted controls autoplay="true" width="600" height="500">
+<video muted controls autoplay="true" width="600" height="350">
 
 <source src="videos/TRAILER - fhi360.mp4">
 
