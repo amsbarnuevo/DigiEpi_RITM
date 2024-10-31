@@ -4,7 +4,7 @@ tbl-colwidths: [10,30,20,40]
 ---
 
 | Group Number | Study Title | DOI | Microreact Project Link |
-|:---------------:|----------|----------|:----------------------------------|
+|:--:|----|----|:---|
 | 1 | Revised nomenclature and SNP barcode for Mycobacterium tuberculosis lineage 2 | <https://doi.org/10.1099/mgen.0.000697> | <https://microreact.org/project/4kJjFVPWe3TbfwFtqY3ED8> |
 | 2 | Spatiotemporal transmission of SARS-CoV-2 lineages during 2020–2021 in Pernambuco—Brazil | <https://doi.org/10.1128/spectrum.04218-23> | <https://microreact.org/project/k9UFJmkrZHSx9RmFbDwZah-sars-cov-2-final-update-pernambuco> |
 | 3 | Virus genomes reveal factors that spread and sustained the Ebola epidemic | <https://doi.org/10.1038/nature22040> | <https://microreact.org/project/west-african-ebola-epidemic?tt=rc> |
