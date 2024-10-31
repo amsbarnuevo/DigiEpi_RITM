@@ -2,4 +2,4 @@
 title: "Mentimeter QR Codes"
 ---
 
-![](images/mentimeter_QR_codes.jpg){fig-alt="mentimeter_QR" fig-align="center"}
+![](images/mentimeter_qr_codes.jpg){fig-alt="mentimeter_qr_codes" fig-align="center"}
