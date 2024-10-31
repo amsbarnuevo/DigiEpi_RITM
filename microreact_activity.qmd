@@ -1,15 +1,15 @@
 ---
 title: "Microreact Project Links"
-tbl-colwidths: [20,80]
+tbl-colwidths: [10,30,20,40]
 ---
 
-| Group Number | Microreact Project Link |
-|:----------------------------------:|:-----------------------------------|
-| 1 | <https://microreact.org/project/4kJjFVPWe3TbfwFtqY3ED8> |
-| 2 | <https://microreact.org/project/k9UFJmkrZHSx9RmFbDwZah-sars-cov-2-final-update-pernambuco> |
-| 3 | <https://microreact.org/project/west-african-ebola-epidemic?tt=rc> |
-| 4 | <https://microreact.org/project/t3oxnHhmZrAhtuw6mamutc-b-abortusglobal-phylogenomic-diversity> |
-| 5 | <https://microreact.org/project/choleraeurope> |
-| 6 | <https://microreact.org/project/223ln8u9trx5cqxdaeyfsu> |
-| 7 | <https://microreact.org/project/8DhMNEmMEbFUsvK9xHS349-foz> |
-| 8 | <https://microreact.org/project/aV7RHNCBmG3sJ2rwzchE4k-peru-2003-2018-molecular-surveillance-with-p-falciparum-ampliseq-assay> |
+| Group Number | Study Title | DOI | Microreact Project Link |
+|:---------------:|----------|----------|:----------------------------------|
+| 1 | Revised nomenclature and SNP barcode for Mycobacterium tuberculosis lineage 2 | <https://doi.org/10.1099/mgen.0.000697> | <https://microreact.org/project/4kJjFVPWe3TbfwFtqY3ED8> |
+| 2 | Spatiotemporal transmission of SARS-CoV-2 lineages during 2020–2021 in Pernambuco—Brazil | <https://doi.org/10.1128/spectrum.04218-23> | <https://microreact.org/project/k9UFJmkrZHSx9RmFbDwZah-sars-cov-2-final-update-pernambuco> |
+| 3 | Virus genomes reveal factors that spread and sustained the Ebola epidemic | <https://doi.org/10.1038/nature22040> | <https://microreact.org/project/west-african-ebola-epidemic?tt=rc> |
+| 4 | Global phylogenomic diversity of Brucella abortus: spread of a dominant | <https://doi.org/10.3389/fmicb.2023.1287046> | <https://microreact.org/project/t3oxnHhmZrAhtuw6mamutc-b-abortusglobal-phylogenomic-diversity> |
+| 5 | The seventh pandemic of cholera in Europe revisited by microbial genomics | <https://doi.org/10.3389/fmicb.2023.1287046> | <https://microreact.org/project/choleraeurope> |
+| 6 | Phylodynamics of HIV in the Mexico City Metropolitan Region | <https://doi.org/10.1128/jvi.00708-22> | <https://microreact.org/project/223ln8u9trx5cqxdaeyfsu> |
+| 7 | Spatial analysis of dengue transmission in an endemic city in Brazil reveals high spatial structuring on local dengue transmission dynamics | <https://doi.org/10.1038/s41598-024-59537-y> | <https://microreact.org/project/8DhMNEmMEbFUsvK9xHS349-foz> |
+| 8 | Malaria Molecular Surveillance in the Peruvian Amazon with a Novel Highly Multiplexed Plasmodium falciparum AmpliSeq Assay | <https://doi.org/10.1128/spectrum.00960-22> | <https://microreact.org/project/aV7RHNCBmG3sJ2rwzchE4k-peru-2003-2018-molecular-surveillance-with-p-falciparum-ampliseq-assay> |
